@@ -4842,3 +4842,62 @@ java.lang.NullPointerException: Element not found: amount
 [03May2025 07:43:54.200] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Emilianano moved too quickly! -6.739443666055763,-1.0263346169616625,7.909536936402446
 [03May2025 07:43:54.206] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2135ms or 42 ticks behind
 [03May2025 07:48:00.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was slain by Ravager
+[03May2025 07:49:50.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was slain by Ravager
+[03May2025 07:54:22.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano went off with a bang thanks to Archevoker
+[03May2025 07:54:43.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was caught by Archevoker's fangs
+[03May2025 07:55:48.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was eviscerated by Archevoker's vexes
+[03May2025 07:56:32.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was eviscerated by Archevoker's vexes
+[03May2025 07:56:48.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano went off with a bang thanks to Archevoker
+[03May2025 07:57:02.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was caught by Archevoker's fangs
+[03May2025 07:57:49.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was eviscerated by Archevoker's vexes
+[03May2025 07:58:25.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was eviscerated by Archevoker's vexes
+[03May2025 07:58:33.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI was slain by Skeleton
+[03May2025 07:58:41.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was eviscerated by Archevoker's vexes
+[03May2025 07:58:56.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was eviscerated by Archevoker's vexes
+[03May2025 07:59:01.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI was slain by Skeleton
+[03May2025 07:59:43.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was eviscerated by Archevoker's vexes
+[03May2025 07:59:58.459] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-355, y=26, z=-545}
+[03May2025 08:00:13.147] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=26, z=-592}
+[03May2025 08:00:13.148] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=27, z=-592}
+[03May2025 08:00:13.148] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-275, y=27, z=-591}
+[03May2025 08:00:13.148] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-282, y=35, z=-587}
+[03May2025 08:00:13.255] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-371, y=27, z=-561}
+[03May2025 08:00:13.255] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-372, y=27, z=-561}
+[03May2025 08:00:13.256] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-373, y=27, z=-561}
+[03May2025 08:00:15.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was eviscerated by Archevoker's vexes
+[03May2025 08:00:42.833] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-337, y=30, z=-594}
+[03May2025 08:00:42.833] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-337, y=29, z=-593}
+[03May2025 08:00:42.834] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-338, y=29, z=-593}
+[03May2025 08:00:42.834] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-340, y=30, z=-591}
+[03May2025 08:00:42.835] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-339, y=29, z=-591}
+[03May2025 08:00:42.835] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-339, y=29, z=-592}
+[03May2025 08:00:42.836] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-339, y=29, z=-590}
+[03May2025 08:00:42.837] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-337, y=29, z=-589}
+[03May2025 08:00:42.837] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-338, y=29, z=-589}
+[03May2025 08:00:42.838] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-339, y=24, z=-591}
+[03May2025 08:00:42.839] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-337, y=30, z=-588}
+[03May2025 08:00:42.840] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-336, y=29, z=-593}
+[03May2025 08:00:42.840] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-334, y=30, z=-591}
+[03May2025 08:00:42.841] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-336, y=29, z=-589}
+[03May2025 08:00:42.841] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-335, y=29, z=-590}
+[03May2025 08:00:42.842] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-335, y=29, z=-591}
+[03May2025 08:00:42.844] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-335, y=29, z=-592}
+[03May2025 08:00:43.068] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-315, y=32, z=-582}
+[03May2025 08:00:43.069] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-315, y=32, z=-587}
+[03May2025 08:01:04.734] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-312, y=32, z=-582}
+[03May2025 08:01:04.734] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-312, y=32, z=-587}
+[03May2025 08:01:05.712] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=26, z=-592}
+[03May2025 08:01:05.713] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=27, z=-592}
+[03May2025 08:01:05.713] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-275, y=27, z=-591}
+[03May2025 08:01:05.713] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-282, y=35, z=-587}
+[03May2025 08:01:07.669] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-276, y=27, z=-610}
+[03May2025 08:02:41.763] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-355, y=26, z=-545}
+[03May2025 08:02:41.764] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-355, y=26, z=-541}
+[03May2025 08:03:16.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was caught by Archevoker's fangs
+[03May2025 08:03:31.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was eviscerated by Archevoker's vexes
+[03May2025 08:03:40.802] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/32732, l='ServerLevel[world]', x=184.70, y=63.00, z=-830.05] died, message: 'Unemployed was slain by Equestrian'
+[03May2025 08:03:52.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was eviscerated by Archevoker's vexes
+[03May2025 08:04:21.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano went off with a bang thanks to Archevoker
+[03May2025 08:05:22.984] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Scribe'/28024, l='ServerLevel[world]', x=-605.41, y=63.00, z=-406.03] died, message: 'Scribe was slain by Zombie'
+[03May2025 08:06:36.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano has made the advancement [Acquire Hardware]
+[03May2025 08:09:37.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was eviscerated by Archevoker's vexes

@@ -2213,6 +2213,7 @@
       "cooked_mutton": "2025-05-03 06:30:58 +0000",
       "cooked_beef": "2025-05-03 05:44:31 +0000",
       "baked_potato": "2025-05-03 06:06:31 +0000",
+      "beef": "2025-05-03 07:49:14 +0000",
       "mutton": "2025-05-03 07:24:37 +0000",
       "bread": "2025-05-03 06:01:15 +0000",
       "golden_apple": "2025-05-03 06:47:18 +0000"
@@ -2497,6 +2498,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-05-03 07:47:42 +0000",
+      "minecraft:ravager": "2025-05-03 07:50:04 +0000",
+      "minecraft:vindicator": "2025-05-03 07:52:27 +0000",
       "minecraft:spider": "2025-05-03 06:07:38 +0000",
       "minecraft:husk": "2025-05-03 06:16:17 +0000",
       "minecraft:zombie": "2025-05-03 05:54:56 +0000"
@@ -3157,9 +3161,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-03 07:57:19 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/horse": {
     "criteria": {
       "has_leather": "2025-05-03 07:44:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-05-03 07:57:19 +0000"
     },
     "done": true
   },
@@ -3193,6 +3209,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-05-03 07:57:19 +0000"
+    },
+    "done": true
+  },
   "skilltree:recipes/combat/fiery_quiver": {
     "criteria": {
       "has_blaze_powder": "2025-05-03 07:41:39 +0000"
@@ -3217,9 +3239,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-03 07:57:19 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/dark_oak_banister": {
+    "criteria": {
+      "has_item": "2025-05-03 07:58:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_pressure_plate": {
     "criteria": {
       "has_planks": "2025-05-03 07:35:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-03 07:57:19 +0000"
     },
     "done": true
   },
@@ -3241,6 +3281,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-05-03 07:58:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-05-03 07:57:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_fence_gate": {
     "criteria": {
       "has_planks": "2025-05-03 07:35:59 +0000"
@@ -3250,6 +3302,24 @@
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2025-05-03 07:38:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-03 07:57:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-05-03 07:57:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-05-03 07:57:19 +0000"
     },
     "done": true
   },
