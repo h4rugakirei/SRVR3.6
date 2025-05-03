@@ -2409,15 +2409,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_porkchop": {
+  "minecraft:story/iron_tools": {
     "criteria": {
-      "has_porkchop": "2025-05-03 03:50:51 +0000"
+      "iron_pickaxe": "2025-05-03 03:48:30 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/random": {
+    "criteria": {
+      "sword": "2025-05-03 03:49:18 +0000"
     },
     "done": true
   },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-05-03 03:50:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-05-03 03:50:51 +0000"
     },
     "done": true
   },
@@ -2439,21 +2451,9 @@
     },
     "done": true
   },
-  "minecraft:story/iron_tools": {
-    "criteria": {
-      "iron_pickaxe": "2025-05-03 03:48:30 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2025-05-03 03:50:51 +0000"
-    },
-    "done": true
-  },
-  "apotheosis:affix/random": {
-    "criteria": {
-      "sword": "2025-05-03 03:49:18 +0000"
     },
     "done": true
   },
