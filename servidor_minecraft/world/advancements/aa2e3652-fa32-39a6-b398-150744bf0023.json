@@ -1720,6 +1720,7 @@
       "minecraft:river": "2025-05-03 05:45:19 +0000",
       "minecraft:swamp": "2025-05-03 08:12:33 +0000",
       "minecraft:forest": "2025-05-03 05:46:05 +0000",
+      "minecraft:jungle": "2025-05-03 08:54:13 +0000",
       "minecraft:ocean": "2025-05-03 08:20:47 +0000",
       "minecraft:windswept_savanna": "2025-05-03 08:14:15 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-03 08:14:07 +0000",
@@ -3153,6 +3154,12 @@
     },
     "done": true
   },
+  "call_of_yucutan:obtain_blessing": {
+    "criteria": {
+      "obtain_blessing_0": "2025-05-03 08:50:12 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/mountain_troll_leather_helmet": {
     "criteria": {
       "has_item": "2025-05-03 08:01:26 +0000"
@@ -3240,6 +3247,12 @@
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2025-05-03 07:31:32 +0000"
+    },
+    "done": true
+  },
+  "call_of_yucutan:sacrifice_items": {
+    "criteria": {
+      "sacrifice_items_0": "2025-05-03 08:47:01 +0000"
     },
     "done": true
   },
@@ -3417,6 +3430,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-05-03 09:06:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
     "criteria": {
       "has_red_nether_bricks": "2025-05-03 07:59:41 +0000"
@@ -3495,6 +3514,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-05-03 09:06:10 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/forest_troll_leather_helmet": {
     "criteria": {
       "has_item": "2025-05-03 08:01:26 +0000"
@@ -3528,6 +3553,12 @@
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2025-05-03 07:56:20 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/boss": {
+    "criteria": {
+      "sword": "2025-05-03 08:51:40 +0000"
     },
     "done": true
   },

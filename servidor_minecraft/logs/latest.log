@@ -5164,3 +5164,21 @@ Caused by: java.lang.IllegalStateException: Entity has invalid position
 [03May2025 08:48:16.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was blown up by Death Worm
 [03May2025 08:49:42.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano has made the advancement [The Desert Swimmers]
 [03May2025 08:50:12.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI has completed the challenge [Divine Favor]
+[03May2025 08:51:39.855] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Enaa the Shiny'/75796, l='ServerLevel[world]', x=135.60, y=69.00, z=-774.32] died: Enaa the Shiny was slain by IDetesDI
+[03May2025 08:51:40.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI has completed the challenge [He Wasn't So Strong]
+[03May2025 08:52:13.650] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/75561, l='ServerLevel[world]', x=117.57, y=67.00, z=-768.33] died, message: 'Librarian was slain by Equestrian'
+[03May2025 08:52:46.782] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/75581, l='ServerLevel[world]', x=89.37, y=68.00, z=-808.70] died, message: 'Unemployed was slain by Zombie'
+[03May2025 08:55:35.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI was killed by magic
+[03May2025 08:57:08.481] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/79084, l='ServerLevel[world]', x=89.50, y=68.00, z=-812.30] died, message: 'Unemployed was slain by Zombie'
+[03May2025 08:57:53.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI was killed by magic
+[03May2025 09:00:07.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI withered away
+[03May2025 09:04:34.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI was killed by magic
+[03May2025 09:06:32.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was slain by IDetesDI
+[03May2025 09:07:06.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI was slain by Emilianano using [Arachne's Weaving]
+[03May2025 09:09:02.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IDetesDI: Summoned new Dragon Fire Charge]
+[03May2025 09:09:03.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI was slain by The Bigger Suck
+[03May2025 09:09:34.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IDetesDI: Summoned new Fire Dragon]
+[03May2025 09:09:47.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano has made the advancement [Surge Protector]
+[03May2025 09:10:06.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI was slain by Fire Dragon
+[03May2025 09:10:18.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IDetesDI: Summoned new Fire Dragon]
+[03May2025 09:10:45.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IDetesDI: Summoned new Atlatitan]

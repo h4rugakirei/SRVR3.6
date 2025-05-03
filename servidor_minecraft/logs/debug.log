@@ -15974,3 +15974,1047 @@ Caused by: java.lang.IllegalStateException: Entity has invalid position
 [03May2025 08:50:40.554] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ZombieClownEntity['Zombie Clown'/73545, l='ServerLevel[world]', x=838.59, y=77.00, z=-1241.49]
 [03May2025 08:50:40.555] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
 [03May2025 08:50:40.555] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ZombieClownEntity['Zombie Clown'/73545, l='ServerLevel[world]', x=838.59, y=77.00, z=-1241.49]
+[03May2025 08:50:41.550] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:50:41.550] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ZombieClownEntity['Zombie Clown'/73545, l='ServerLevel[world]', x=838.40, y=78.10, z=-1241.49]
+[03May2025 08:50:41.551] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:50:41.551] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ZombieClownEntity['Zombie Clown'/73545, l='ServerLevel[world]', x=838.40, y=78.10, z=-1241.49]
+[03May2025 08:50:42.549] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:50:42.549] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ZombieClownEntity['Zombie Clown'/73545, l='ServerLevel[world]', x=838.22, y=78.00, z=-1241.59]
+[03May2025 08:50:42.550] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:50:42.550] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ZombieClownEntity['Zombie Clown'/73545, l='ServerLevel[world]', x=838.22, y=78.00, z=-1241.59]
+[03May2025 08:50:43.551] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:50:43.551] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ZombieClownEntity['Zombie Clown'/73545, l='ServerLevel[world]', x=838.03, y=78.00, z=-1241.47]
+[03May2025 08:50:43.552] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:50:43.552] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ZombieClownEntity['Zombie Clown'/73545, l='ServerLevel[world]', x=838.03, y=78.00, z=-1241.47]
+[03May2025 08:50:46.563] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:50:46.563] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ZombieClownEntity['Zombie Clown'/73545, l='ServerLevel[world]', x=838.42, y=77.27, z=-1240.58]
+[03May2025 08:50:46.564] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:50:46.564] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ZombieClownEntity['Zombie Clown'/73545, l='ServerLevel[world]', x=838.42, y=77.27, z=-1240.58]
+[03May2025 08:50:47.549] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:50:47.550] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ZombieClownEntity['Zombie Clown'/73545, l='ServerLevel[world]', x=838.67, y=77.00, z=-1240.32]
+[03May2025 08:50:47.550] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:50:47.550] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ZombieClownEntity['Zombie Clown'/73545, l='ServerLevel[world]', x=838.67, y=77.00, z=-1240.32]
+[03May2025 08:50:48.594] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 08:50:48.607] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 08:50:48.726] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:50:48.727] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ZombieClownEntity['Zombie Clown'/73545, l='ServerLevel[world]', x=838.94, y=77.00, z=-1240.06]
+[03May2025 08:50:48.727] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:50:48.727] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ZombieClownEntity['Zombie Clown'/73545, l='ServerLevel[world]', x=838.94, y=77.00, z=-1240.06]
+[03May2025 08:50:49.546] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:50:49.546] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ZombieClownEntity['Zombie Clown'/73545, l='ServerLevel[world]', x=839.20, y=77.00, z=-1239.80]
+[03May2025 08:50:49.546] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:50:49.546] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ZombieClownEntity['Zombie Clown'/73545, l='ServerLevel[world]', x=839.20, y=77.00, z=-1239.80]
+[03May2025 08:50:50.552] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:50:50.552] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ZombieClownEntity['Zombie Clown'/73545, l='ServerLevel[world]', x=839.46, y=77.00, z=-1239.54]
+[03May2025 08:50:50.552] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:50:50.552] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ZombieClownEntity['Zombie Clown'/73545, l='ServerLevel[world]', x=839.46, y=77.00, z=-1239.54]
+[03May2025 08:50:51.553] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:50:51.553] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Creeper['Creeper'/73464, l='ServerLevel[world]', x=834.70, y=68.00, z=-1244.30]
+[03May2025 08:50:51.554] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:50:51.554] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Creeper['Creeper'/73464, l='ServerLevel[world]', x=834.70, y=68.00, z=-1244.30]
+[03May2025 08:50:55.548] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:50:55.548] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: EntityRoadrunner['Roadrunner'/73528, l='ServerLevel[world]', x=846.69, y=68.00, z=-1231.42]
+[03May2025 08:50:55.548] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:50:55.548] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: EntityRoadrunner['Roadrunner'/73528, l='ServerLevel[world]', x=846.69, y=68.00, z=-1231.42]
+[03May2025 08:51:12.544] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:51:12.544] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: DecrepitSkeletonEntity['Decrepit Skeleton'/75338, l='ServerLevel[world]', x=916.54, y=71.00, z=-1177.46]
+[03May2025 08:51:12.544] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:51:12.544] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: DecrepitSkeletonEntity['Decrepit Skeleton'/75338, l='ServerLevel[world]', x=916.54, y=71.00, z=-1177.46]
+[03May2025 08:51:39.855] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Enaa the Shiny'/75796, l='ServerLevel[world]', x=135.60, y=69.00, z=-774.32] died: Enaa the Shiny was slain by IDetesDI
+[03May2025 08:51:40.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI has completed the challenge [He Wasn't So Strong]
+[03May2025 08:51:42.552] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:51:42.552] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: DreadHoundEntity['Dread Hound'/76102, l='ServerLevel[world]', x=764.85, y=67.00, z=-1146.87]
+[03May2025 08:51:42.552] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:51:42.552] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: DreadHoundEntity['Dread Hound'/76102, l='ServerLevel[world]', x=764.85, y=67.00, z=-1146.87]
+[03May2025 08:51:43.546] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:51:43.546] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: DreadHoundEntity['Dread Hound'/76103, l='ServerLevel[world]', x=756.09, y=66.00, z=-1144.10]
+[03May2025 08:51:43.547] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:51:43.547] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: DreadHoundEntity['Dread Hound'/76105, l='ServerLevel[world]', x=760.22, y=67.00, z=-1145.52]
+[03May2025 08:51:43.547] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:51:43.547] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/75654, l='ServerLevel[world]', x=761.13, y=67.00, z=-1146.41]
+[03May2025 08:51:43.547] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:51:43.547] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: DreadHoundEntity['Dread Hound'/76103, l='ServerLevel[world]', x=756.09, y=66.00, z=-1144.10]
+[03May2025 08:51:43.547] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:51:43.547] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: DreadHoundEntity['Dread Hound'/76105, l='ServerLevel[world]', x=760.22, y=67.00, z=-1145.52]
+[03May2025 08:51:43.547] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:51:43.547] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/75654, l='ServerLevel[world]', x=761.13, y=67.00, z=-1146.41]
+[03May2025 08:52:00.544] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:52:00.544] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Spider['Spider'/76508, l='ServerLevel[world]', x=652.13, y=66.00, z=-1084.38]
+[03May2025 08:52:00.544] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:52:00.544] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Spider['Spider'/76508, l='ServerLevel[world]', x=652.13, y=66.00, z=-1084.38]
+[03May2025 08:52:01.552] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:52:01.552] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Spider['Spider'/76508, l='ServerLevel[world]', x=652.10, y=66.71, z=-1084.39]
+[03May2025 08:52:01.552] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:52:01.552] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Spider['Spider'/76508, l='ServerLevel[world]', x=652.10, y=66.71, z=-1084.39]
+[03May2025 08:52:09.547] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:52:09.547] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/75654, l='ServerLevel[world]', x=623.66, y=62.19, z=-1071.87]
+[03May2025 08:52:09.547] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:52:09.547] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/75654, l='ServerLevel[world]', x=623.66, y=62.19, z=-1071.87]
+[03May2025 08:52:10.546] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:52:10.546] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/75654, l='ServerLevel[world]', x=622.77, y=61.13, z=-1068.80]
+[03May2025 08:52:10.547] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:52:10.547] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/75654, l='ServerLevel[world]', x=622.77, y=61.13, z=-1068.80]
+[03May2025 08:52:11.545] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:52:11.545] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/75654, l='ServerLevel[world]', x=622.67, y=60.70, z=-1068.59]
+[03May2025 08:52:11.546] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:52:11.546] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/75654, l='ServerLevel[world]', x=622.67, y=60.70, z=-1068.59]
+[03May2025 08:52:12.545] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:52:12.545] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/75654, l='ServerLevel[world]', x=622.61, y=60.20, z=-1068.58]
+[03May2025 08:52:12.546] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:52:12.546] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/75654, l='ServerLevel[world]', x=622.61, y=60.20, z=-1068.58]
+[03May2025 08:52:13.552] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:52:13.552] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/75654, l='ServerLevel[world]', x=622.02, y=62.84, z=-1067.52]
+[03May2025 08:52:13.552] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:52:13.552] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/75654, l='ServerLevel[world]', x=622.02, y=62.84, z=-1067.52]
+[03May2025 08:52:13.650] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/75561, l='ServerLevel[world]', x=117.57, y=67.00, z=-768.33] died, message: 'Librarian was slain by Equestrian'
+[03May2025 08:52:14.547] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:52:14.547] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/75654, l='ServerLevel[world]', x=622.13, y=62.58, z=-1067.63]
+[03May2025 08:52:14.548] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:52:14.548] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/75654, l='ServerLevel[world]', x=622.13, y=62.58, z=-1067.63]
+[03May2025 08:52:15.545] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:52:15.546] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/75654, l='ServerLevel[world]', x=622.13, y=62.08, z=-1067.63]
+[03May2025 08:52:15.546] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:52:15.546] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/75654, l='ServerLevel[world]', x=622.13, y=62.08, z=-1067.63]
+[03May2025 08:52:36.548] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:52:36.548] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/75654, l='ServerLevel[world]', x=568.26, y=66.00, z=-1062.21]
+[03May2025 08:52:36.549] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:52:36.549] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/75654, l='ServerLevel[world]', x=568.26, y=66.00, z=-1062.21]
+[03May2025 08:52:44.549] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:52:44.549] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: WaspEntity['Wasp'/76818, l='ServerLevel[world]', x=539.13, y=56.33, z=-1039.51]
+[03May2025 08:52:44.550] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:52:44.550] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: WaspEntity['Wasp'/76818, l='ServerLevel[world]', x=539.13, y=56.33, z=-1039.51]
+[03May2025 08:52:45.551] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:52:45.551] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: WaspEntity['Wasp'/76818, l='ServerLevel[world]', x=538.61, y=57.64, z=-1039.51]
+[03May2025 08:52:45.552] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:52:45.552] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: WaspEntity['Wasp'/76818, l='ServerLevel[world]', x=538.61, y=57.64, z=-1039.51]
+[03May2025 08:52:46.545] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:52:46.545] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/75654, l='ServerLevel[world]', x=538.60, y=59.00, z=-1040.64]
+[03May2025 08:52:46.545] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:52:46.546] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: WaspEntity['Wasp'/76818, l='ServerLevel[world]', x=540.59, y=57.55, z=-1039.26]
+[03May2025 08:52:46.546] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:52:46.546] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/75654, l='ServerLevel[world]', x=538.60, y=59.00, z=-1040.64]
+[03May2025 08:52:46.546] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:52:46.546] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: WaspEntity['Wasp'/76818, l='ServerLevel[world]', x=540.59, y=57.55, z=-1039.26]
+[03May2025 08:52:46.782] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/75581, l='ServerLevel[world]', x=89.37, y=68.00, z=-808.70] died, message: 'Unemployed was slain by Zombie'
+[03May2025 08:52:47.546] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:52:47.547] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: WaspEntity['Wasp'/76818, l='ServerLevel[world]', x=541.96, y=58.99, z=-1039.29]
+[03May2025 08:52:47.547] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:52:47.547] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/75654, l='ServerLevel[world]', x=538.38, y=59.54, z=-1039.76]
+[03May2025 08:52:47.547] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:52:47.547] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: WaspEntity['Wasp'/76818, l='ServerLevel[world]', x=541.96, y=58.99, z=-1039.29]
+[03May2025 08:52:47.547] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:52:47.547] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/75654, l='ServerLevel[world]', x=538.38, y=59.54, z=-1039.76]
+[03May2025 08:53:03.541] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:53:03.541] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Bat['Bat'/76909, l='ServerLevel[world]', x=525.01, y=53.07, z=-1028.16]
+[03May2025 08:53:03.542] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:53:03.542] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Bat['Bat'/76909, l='ServerLevel[world]', x=525.01, y=53.07, z=-1028.16]
+[03May2025 08:53:28.546] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:53:28.546] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: GhoulEntity['Ghoul'/77190, l='ServerLevel[world]', x=518.40, y=64.00, z=-1013.24]
+[03May2025 08:53:28.546] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:53:28.546] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: GhoulEntity['Ghoul'/77190, l='ServerLevel[world]', x=518.40, y=64.00, z=-1013.24]
+[03May2025 08:53:29.539] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:53:29.540] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: GhoulEntity['Ghoul'/77190, l='ServerLevel[world]', x=518.40, y=64.00, z=-1013.27]
+[03May2025 08:53:29.540] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:53:29.540] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: GhoulEntity['Ghoul'/77190, l='ServerLevel[world]', x=518.40, y=64.00, z=-1013.27]
+[03May2025 08:53:30.543] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:53:30.543] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: GhoulEntity['Ghoul'/77190, l='ServerLevel[world]', x=518.40, y=64.00, z=-1013.28]
+[03May2025 08:53:30.544] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:53:30.544] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: GhoulEntity['Ghoul'/77190, l='ServerLevel[world]', x=518.40, y=64.00, z=-1013.28]
+[03May2025 08:53:31.545] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:53:31.545] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: GhoulEntity['Ghoul'/77190, l='ServerLevel[world]', x=518.40, y=64.00, z=-1013.30]
+[03May2025 08:53:31.546] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:53:31.546] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: GhoulEntity['Ghoul'/77190, l='ServerLevel[world]', x=518.40, y=64.00, z=-1013.30]
+[03May2025 08:53:32.538] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:53:32.538] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: GhoulEntity['Ghoul'/77190, l='ServerLevel[world]', x=518.40, y=64.00, z=-1013.31]
+[03May2025 08:53:32.538] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:53:32.538] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: GhoulEntity['Ghoul'/77190, l='ServerLevel[world]', x=518.40, y=64.00, z=-1013.31]
+[03May2025 08:53:33.541] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:53:33.541] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: GhoulEntity['Ghoul'/77190, l='ServerLevel[world]', x=518.40, y=64.00, z=-1013.32]
+[03May2025 08:53:33.541] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:53:33.542] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: GhoulEntity['Ghoul'/77190, l='ServerLevel[world]', x=518.40, y=64.00, z=-1013.32]
+[03May2025 08:53:34.541] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:53:34.541] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: GhoulEntity['Ghoul'/77190, l='ServerLevel[world]', x=518.40, y=64.00, z=-1013.33]
+[03May2025 08:53:34.541] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:53:34.541] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: GhoulEntity['Ghoul'/77190, l='ServerLevel[world]', x=518.40, y=64.00, z=-1013.33]
+[03May2025 08:53:35.541] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:53:35.541] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: GhoulEntity['Ghoul'/77190, l='ServerLevel[world]', x=518.40, y=64.00, z=-1013.34]
+[03May2025 08:53:35.542] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:53:35.542] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: GhoulEntity['Ghoul'/77190, l='ServerLevel[world]', x=518.40, y=64.00, z=-1013.34]
+[03May2025 08:53:36.546] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:53:36.546] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: GhoulEntity['Ghoul'/77190, l='ServerLevel[world]', x=518.45, y=64.00, z=-1013.30]
+[03May2025 08:53:36.547] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:53:36.547] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: GhoulEntity['Ghoul'/77190, l='ServerLevel[world]', x=518.45, y=64.00, z=-1013.30]
+[03May2025 08:53:37.545] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:53:37.546] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: GhoulEntity['Ghoul'/77190, l='ServerLevel[world]', x=518.50, y=64.00, z=-1013.27]
+[03May2025 08:53:37.546] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:53:37.546] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: GhoulEntity['Ghoul'/77190, l='ServerLevel[world]', x=518.50, y=64.00, z=-1013.27]
+[03May2025 08:53:38.539] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:53:38.539] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: GhoulEntity['Ghoul'/77190, l='ServerLevel[world]', x=518.54, y=64.00, z=-1013.23]
+[03May2025 08:53:38.539] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:53:38.540] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: GhoulEntity['Ghoul'/77190, l='ServerLevel[world]', x=518.54, y=64.00, z=-1013.23]
+[03May2025 08:53:39.544] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:53:39.544] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: WaspEntity['Wasp'/76891, l='ServerLevel[world]', x=511.69, y=65.33, z=-1010.86]
+[03May2025 08:53:39.544] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:53:39.544] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: WaspEntity['Wasp'/76891, l='ServerLevel[world]', x=511.69, y=65.33, z=-1010.86]
+[03May2025 08:53:53.543] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:53:53.543] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: DirewolfEntity['Direwolf'/77431, l='ServerLevel[world]', x=511.21, y=65.00, z=-980.26]
+[03May2025 08:53:53.543] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:53:53.543] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: DirewolfEntity['Direwolf'/77431, l='ServerLevel[world]', x=511.21, y=65.00, z=-980.26]
+[03May2025 08:53:54.540] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:53:54.540] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: DirewolfEntity['Direwolf'/77431, l='ServerLevel[world]', x=511.44, y=65.00, z=-980.07]
+[03May2025 08:53:54.541] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:53:54.541] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: DirewolfEntity['Direwolf'/77431, l='ServerLevel[world]', x=511.44, y=65.00, z=-980.07]
+[03May2025 08:54:13.537] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:54:13.537] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=437.08, y=68.00, z=-940.38]
+[03May2025 08:54:13.538] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:54:13.538] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=437.08, y=68.00, z=-940.38]
+[03May2025 08:54:15.534] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:54:15.534] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Zombie['Zombie'/77701, l='ServerLevel[world]', x=432.15, y=68.00, z=-926.87]
+[03May2025 08:54:15.535] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:54:15.535] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Zombie['Zombie'/77701, l='ServerLevel[world]', x=432.15, y=68.00, z=-926.87]
+[03May2025 08:54:16.536] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:54:16.536] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: EntityFly['Fly'/77729, l='ServerLevel[world]', x=431.52, y=69.47, z=-925.69]
+[03May2025 08:54:16.536] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:54:16.536] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Zombie['Zombie'/77701, l='ServerLevel[world]', x=431.95, y=68.00, z=-927.26]
+[03May2025 08:54:16.536] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:54:16.536] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: DirewolfEntity['Direwolf'/77412, l='ServerLevel[world]', x=433.58, y=68.17, z=-925.15]
+[03May2025 08:54:16.537] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:54:16.537] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: EntityFly['Fly'/77729, l='ServerLevel[world]', x=431.52, y=69.47, z=-925.69]
+[03May2025 08:54:16.537] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:54:16.537] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Zombie['Zombie'/77701, l='ServerLevel[world]', x=431.95, y=68.00, z=-927.26]
+[03May2025 08:54:16.537] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:54:16.537] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: DirewolfEntity['Direwolf'/77412, l='ServerLevel[world]', x=433.58, y=68.17, z=-925.15]
+[03May2025 08:55:15.537] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:55:15.537] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=391.30, y=64.00, z=-831.60]
+[03May2025 08:55:15.537] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:55:15.537] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=391.30, y=64.00, z=-831.60]
+[03May2025 08:55:16.533] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:55:16.533] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=391.30, y=64.00, z=-831.63]
+[03May2025 08:55:16.533] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:55:16.533] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=391.30, y=64.00, z=-831.63]
+[03May2025 08:55:17.532] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:55:17.532] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=391.30, y=64.00, z=-831.63]
+[03May2025 08:55:17.532] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:55:17.532] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=391.30, y=64.00, z=-831.63]
+[03May2025 08:55:18.533] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:55:18.533] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=391.30, y=64.00, z=-831.63]
+[03May2025 08:55:18.533] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:55:18.534] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=391.30, y=64.00, z=-831.63]
+[03May2025 08:55:21.535] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:55:21.535] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=391.44, y=64.00, z=-831.47]
+[03May2025 08:55:21.536] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:55:21.536] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=391.44, y=64.00, z=-831.47]
+[03May2025 08:55:22.536] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:55:22.536] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=392.13, y=65.00, z=-832.47]
+[03May2025 08:55:22.536] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:55:22.536] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=392.13, y=65.00, z=-832.47]
+[03May2025 08:55:23.532] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:55:23.532] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=391.92, y=65.00, z=-834.22]
+[03May2025 08:55:23.533] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:55:23.533] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=391.92, y=65.00, z=-834.22]
+[03May2025 08:55:24.534] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:55:24.534] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=392.53, y=66.02, z=-833.59]
+[03May2025 08:55:24.535] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:55:24.535] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=392.53, y=66.02, z=-833.59]
+[03May2025 08:55:34.534] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:55:34.534] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=402.93, y=69.00, z=-837.24]
+[03May2025 08:55:34.535] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:55:34.535] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=402.93, y=69.00, z=-837.24]
+[03May2025 08:55:35.534] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:55:35.534] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=402.93, y=69.00, z=-837.24]
+[03May2025 08:55:35.535] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:55:35.535] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=402.93, y=69.00, z=-837.24]
+[03May2025 08:55:35.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI was killed by magic
+[03May2025 08:55:37.976] [Server thread/DEBUG] [twilightforest/]: Player IDetesDI (aa2e3652-fa32-39a6-b398-150744bf0023) respawned and received items held in storage
+[03May2025 08:55:48.595] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 08:55:48.611] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 08:55:51.540] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:55:51.540] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=401.10, y=68.00, z=-838.74]
+[03May2025 08:55:51.541] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:55:51.541] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=401.10, y=68.00, z=-838.74]
+[03May2025 08:55:56.537] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:55:56.537] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=397.20, y=67.00, z=-837.96]
+[03May2025 08:55:56.537] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:55:56.537] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=397.20, y=67.00, z=-837.96]
+[03May2025 08:55:57.534] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:55:57.534] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=397.28, y=67.00, z=-838.16]
+[03May2025 08:55:57.535] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:55:57.535] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=397.28, y=67.00, z=-838.16]
+[03May2025 08:56:01.534] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:56:01.534] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=397.23, y=67.00, z=-838.15]
+[03May2025 08:56:01.534] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:56:01.534] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=397.23, y=67.00, z=-838.15]
+[03May2025 08:56:02.546] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:56:02.547] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=397.23, y=67.00, z=-838.15]
+[03May2025 08:56:02.547] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:56:02.547] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=397.23, y=67.00, z=-838.15]
+[03May2025 08:57:06.537] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:57:06.537] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=233.50, y=71.28, z=-775.03]
+[03May2025 08:57:06.537] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:57:06.537] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=233.50, y=71.28, z=-775.03]
+[03May2025 08:57:08.481] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/79084, l='ServerLevel[world]', x=89.50, y=68.00, z=-812.30] died, message: 'Unemployed was slain by Zombie'
+[03May2025 08:57:12.535] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:57:12.535] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=223.91, y=67.96, z=-788.48]
+[03May2025 08:57:12.535] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:57:12.535] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=223.91, y=67.96, z=-788.48]
+[03May2025 08:57:21.532] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:57:21.533] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=224.96, y=69.33, z=-775.00]
+[03May2025 08:57:21.533] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:57:21.533] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=224.96, y=69.33, z=-775.00]
+[03May2025 08:57:22.533] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:57:22.533] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=227.47, y=69.35, z=-772.28]
+[03May2025 08:57:22.533] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:57:22.533] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=227.47, y=69.35, z=-772.28]
+[03May2025 08:57:29.538] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:57:29.538] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=228.45, y=69.00, z=-770.97]
+[03May2025 08:57:29.538] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:57:29.538] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=228.45, y=69.00, z=-770.97]
+[03May2025 08:57:35.538] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:57:35.538] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=228.45, y=69.00, z=-770.97]
+[03May2025 08:57:35.538] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:57:35.538] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=228.45, y=69.00, z=-770.97]
+[03May2025 08:57:38.533] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:57:38.533] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=228.45, y=69.00, z=-770.97]
+[03May2025 08:57:38.533] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:57:38.533] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=228.45, y=69.00, z=-770.97]
+[03May2025 08:57:39.538] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:57:39.538] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=228.45, y=69.00, z=-770.97]
+[03May2025 08:57:39.539] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:57:39.539] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=228.45, y=69.00, z=-770.97]
+[03May2025 08:57:40.532] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:57:40.533] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=228.45, y=69.00, z=-770.97]
+[03May2025 08:57:40.533] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:57:40.533] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=228.45, y=69.00, z=-770.97]
+[03May2025 08:57:41.537] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:57:41.537] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=228.45, y=69.00, z=-770.97]
+[03May2025 08:57:41.537] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:57:41.537] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=228.45, y=69.00, z=-770.97]
+[03May2025 08:57:42.535] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:57:42.535] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=228.45, y=69.00, z=-770.97]
+[03May2025 08:57:42.536] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:57:42.536] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=228.45, y=69.00, z=-770.97]
+[03May2025 08:57:43.538] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:57:43.538] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=228.45, y=69.00, z=-770.97]
+[03May2025 08:57:43.538] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:57:43.538] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=228.45, y=69.00, z=-770.97]
+[03May2025 08:57:44.539] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:57:44.539] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=228.45, y=69.00, z=-770.97]
+[03May2025 08:57:44.539] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:57:44.539] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=228.45, y=69.00, z=-770.97]
+[03May2025 08:57:45.542] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:57:45.542] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=228.45, y=69.00, z=-770.97]
+[03May2025 08:57:45.543] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:57:45.543] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=228.45, y=69.00, z=-770.97]
+[03May2025 08:57:46.533] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:57:46.533] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=228.45, y=69.00, z=-770.97]
+[03May2025 08:57:46.533] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:57:46.533] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=228.45, y=69.00, z=-770.97]
+[03May2025 08:57:47.540] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:57:47.540] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=228.45, y=69.00, z=-770.97]
+[03May2025 08:57:47.540] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:57:47.540] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=228.45, y=69.00, z=-770.97]
+[03May2025 08:57:48.535] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:57:48.535] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=228.45, y=69.00, z=-770.97]
+[03May2025 08:57:48.535] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:57:48.535] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=228.45, y=69.00, z=-770.97]
+[03May2025 08:57:49.543] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:57:49.543] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=228.45, y=69.00, z=-770.97]
+[03May2025 08:57:49.544] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:57:49.544] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=228.45, y=69.00, z=-770.97]
+[03May2025 08:57:50.537] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:57:50.537] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=228.45, y=69.00, z=-770.97]
+[03May2025 08:57:50.537] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:57:50.537] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=228.45, y=69.00, z=-770.97]
+[03May2025 08:57:51.540] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:57:51.540] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=228.41, y=68.00, z=-771.09]
+[03May2025 08:57:51.540] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:57:51.540] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=228.41, y=68.00, z=-771.09]
+[03May2025 08:57:52.537] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:57:52.538] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=228.40, y=68.00, z=-771.14]
+[03May2025 08:57:52.538] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:57:52.538] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=228.40, y=68.00, z=-771.14]
+[03May2025 08:57:53.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI was killed by magic
+[03May2025 08:57:54.417] [Server thread/DEBUG] [twilightforest/]: Player IDetesDI (aa2e3652-fa32-39a6-b398-150744bf0023) respawned and received items held in storage
+[03May2025 08:58:28.717] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:58:28.717] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=271.87, y=66.00, z=-784.45]
+[03May2025 08:58:28.718] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:58:28.718] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=271.87, y=66.00, z=-784.45]
+[03May2025 08:59:19.541] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:59:19.541] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=288.88, y=64.00, z=-795.80]
+[03May2025 08:59:19.541] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:59:19.542] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=288.88, y=64.00, z=-795.80]
+[03May2025 08:59:49.536] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:59:49.537] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=288.91, y=64.52, z=-796.31]
+[03May2025 08:59:49.537] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:59:49.537] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=288.91, y=64.52, z=-796.31]
+[03May2025 09:00:07.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI withered away
+[03May2025 09:00:08.637] [Server thread/DEBUG] [twilightforest/]: Player IDetesDI (aa2e3652-fa32-39a6-b398-150744bf0023) respawned and received items held in storage
+[03May2025 09:00:30.536] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:00:30.536] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.25, y=64.00, z=-793.71]
+[03May2025 09:00:30.537] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:00:30.537] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.25, y=64.00, z=-793.71]
+[03May2025 09:00:31.538] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:00:31.538] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.25, y=64.00, z=-793.71]
+[03May2025 09:00:31.538] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:00:31.538] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.25, y=64.00, z=-793.71]
+[03May2025 09:00:32.539] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:00:32.539] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.25, y=64.00, z=-793.71]
+[03May2025 09:00:32.539] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:00:32.540] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.25, y=64.00, z=-793.71]
+[03May2025 09:00:33.538] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:00:33.539] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.25, y=64.00, z=-793.71]
+[03May2025 09:00:33.539] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:00:33.539] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.25, y=64.00, z=-793.71]
+[03May2025 09:00:34.535] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:00:34.535] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.25, y=64.00, z=-793.71]
+[03May2025 09:00:34.536] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:00:34.536] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.25, y=64.00, z=-793.71]
+[03May2025 09:00:35.535] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:00:35.536] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.26, y=62.00, z=-793.30]
+[03May2025 09:00:35.536] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:00:35.536] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.26, y=62.00, z=-793.30]
+[03May2025 09:00:41.538] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:00:41.538] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.13, y=61.00, z=-793.37]
+[03May2025 09:00:41.539] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:00:41.539] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.13, y=61.00, z=-793.37]
+[03May2025 09:00:42.537] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:00:42.537] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.13, y=61.00, z=-793.37]
+[03May2025 09:00:42.538] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:00:42.538] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.13, y=61.00, z=-793.37]
+[03May2025 09:00:43.538] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:00:43.538] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.13, y=60.00, z=-793.37]
+[03May2025 09:00:43.539] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:00:43.539] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.13, y=60.00, z=-793.37]
+[03May2025 09:00:44.538] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:00:44.539] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.13, y=60.00, z=-793.37]
+[03May2025 09:00:44.539] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:00:44.539] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.13, y=60.00, z=-793.37]
+[03May2025 09:00:45.534] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:00:45.534] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.13, y=59.00, z=-793.37]
+[03May2025 09:00:45.534] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:00:45.534] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.13, y=59.00, z=-793.37]
+[03May2025 09:00:47.539] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:00:47.539] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.13, y=59.00, z=-793.37]
+[03May2025 09:00:47.539] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:00:47.539] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.13, y=59.00, z=-793.37]
+[03May2025 09:00:48.569] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 09:00:48.583] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 09:00:48.686] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:00:48.687] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.13, y=59.00, z=-793.37]
+[03May2025 09:00:48.687] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:00:48.687] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.13, y=59.00, z=-793.37]
+[03May2025 09:00:49.539] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:00:49.539] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.13, y=59.00, z=-793.37]
+[03May2025 09:00:49.539] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:00:49.539] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.13, y=59.00, z=-793.37]
+[03May2025 09:00:51.542] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:00:51.542] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.13, y=59.00, z=-793.37]
+[03May2025 09:00:51.543] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:00:51.543] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.13, y=59.00, z=-793.37]
+[03May2025 09:01:01.538] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:01:01.538] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.48, y=60.25, z=-793.50]
+[03May2025 09:01:01.538] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:01:01.538] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.48, y=60.25, z=-793.50]
+[03May2025 09:01:18.542] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:01:18.542] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.68, y=60.25, z=-793.30]
+[03May2025 09:01:18.543] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:01:18.543] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.68, y=60.25, z=-793.30]
+[03May2025 09:01:24.534] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:01:24.534] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=301.30, y=59.00, z=-793.69]
+[03May2025 09:01:24.535] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:01:24.535] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=301.30, y=59.00, z=-793.69]
+[03May2025 09:01:37.534] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:01:37.534] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=301.31, y=59.00, z=-793.30]
+[03May2025 09:01:37.534] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:01:37.534] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=301.31, y=59.00, z=-793.30]
+[03May2025 09:01:38.539] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:01:38.540] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=301.31, y=59.00, z=-793.30]
+[03May2025 09:01:38.540] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:01:38.540] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=301.31, y=59.00, z=-793.30]
+[03May2025 09:01:39.538] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:01:39.538] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=301.31, y=59.00, z=-793.30]
+[03May2025 09:01:39.539] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:01:39.539] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=301.31, y=59.00, z=-793.30]
+[03May2025 09:01:40.534] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:01:40.534] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=301.31, y=59.00, z=-793.30]
+[03May2025 09:01:40.535] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:01:40.535] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=301.31, y=59.00, z=-793.30]
+[03May2025 09:01:42.534] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:01:42.534] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=301.31, y=59.00, z=-793.30]
+[03May2025 09:01:42.534] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:01:42.534] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=301.31, y=59.00, z=-793.30]
+[03May2025 09:01:43.537] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:01:43.537] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=301.70, y=59.00, z=-793.29]
+[03May2025 09:01:43.538] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:01:43.538] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=301.70, y=59.00, z=-793.29]
+[03May2025 09:01:45.540] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:01:45.540] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.32, y=59.00, z=-793.56]
+[03May2025 09:01:45.540] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:01:45.540] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.32, y=59.00, z=-793.56]
+[03May2025 09:01:46.535] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:01:46.535] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.23, y=59.00, z=-793.57]
+[03May2025 09:01:46.536] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:01:46.536] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.23, y=59.00, z=-793.57]
+[03May2025 09:01:47.536] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:01:47.537] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.23, y=59.00, z=-793.57]
+[03May2025 09:01:47.537] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:01:47.537] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.23, y=59.00, z=-793.57]
+[03May2025 09:01:48.539] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:01:48.539] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.23, y=59.00, z=-793.57]
+[03May2025 09:01:48.540] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:01:48.540] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.23, y=59.00, z=-793.57]
+[03May2025 09:01:49.535] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:01:49.535] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.23, y=59.00, z=-793.57]
+[03May2025 09:01:49.536] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:01:49.536] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.23, y=59.00, z=-793.57]
+[03May2025 09:01:50.540] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:01:50.540] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.23, y=59.00, z=-793.57]
+[03May2025 09:01:50.540] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:01:50.541] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.23, y=59.00, z=-793.57]
+[03May2025 09:01:51.537] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:01:51.537] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.23, y=59.00, z=-793.57]
+[03May2025 09:01:51.537] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:01:51.537] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.23, y=59.00, z=-793.57]
+[03May2025 09:01:58.547] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:01:58.547] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.01, y=59.00, z=-793.56]
+[03May2025 09:01:58.548] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:01:58.548] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.01, y=59.00, z=-793.56]
+[03May2025 09:01:59.544] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:01:59.545] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=301.68, y=59.00, z=-793.65]
+[03May2025 09:01:59.545] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:01:59.545] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=301.68, y=59.00, z=-793.65]
+[03May2025 09:02:00.541] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:02:00.541] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.43, y=59.00, z=-793.57]
+[03May2025 09:02:00.542] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:02:00.542] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.43, y=59.00, z=-793.57]
+[03May2025 09:02:01.539] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:02:01.539] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.30, y=59.00, z=-793.55]
+[03May2025 09:02:01.540] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:02:01.540] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.30, y=59.00, z=-793.55]
+[03May2025 09:02:02.544] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:02:02.544] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.27, y=59.00, z=-793.54]
+[03May2025 09:02:02.545] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:02:02.545] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.27, y=59.00, z=-793.54]
+[03May2025 09:02:03.543] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:02:03.543] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.27, y=59.00, z=-793.54]
+[03May2025 09:02:03.543] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:02:03.543] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.27, y=59.00, z=-793.54]
+[03May2025 09:02:04.535] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:02:04.535] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.41, y=59.00, z=-793.57]
+[03May2025 09:02:04.535] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:02:04.535] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.41, y=59.00, z=-793.57]
+[03May2025 09:02:05.538] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:02:05.539] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.43, y=59.00, z=-793.57]
+[03May2025 09:02:05.539] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:02:05.539] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.43, y=59.00, z=-793.57]
+[03May2025 09:02:06.534] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:02:06.534] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.43, y=59.00, z=-793.57]
+[03May2025 09:02:06.534] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:02:06.534] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.43, y=59.00, z=-793.57]
+[03May2025 09:02:08.549] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:02:08.549] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.43, y=59.00, z=-793.57]
+[03May2025 09:02:08.550] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:02:08.550] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.43, y=59.00, z=-793.57]
+[03May2025 09:02:09.538] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:02:09.538] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.43, y=59.00, z=-793.57]
+[03May2025 09:02:09.539] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:02:09.539] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.43, y=59.00, z=-793.57]
+[03May2025 09:02:10.542] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:02:10.542] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.13, y=59.00, z=-793.45]
+[03May2025 09:02:10.543] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:02:10.543] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.13, y=59.00, z=-793.45]
+[03May2025 09:02:11.538] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:02:11.539] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.35, y=59.00, z=-793.52]
+[03May2025 09:02:11.539] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:02:11.539] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.35, y=59.00, z=-793.52]
+[03May2025 09:02:12.535] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:02:12.535] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.33, y=59.00, z=-793.69]
+[03May2025 09:02:12.535] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:02:12.535] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.33, y=59.00, z=-793.69]
+[03May2025 09:02:13.537] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:02:13.537] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.33, y=59.00, z=-793.69]
+[03May2025 09:02:13.537] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:02:13.537] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.33, y=59.00, z=-793.69]
+[03May2025 09:02:14.539] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:02:14.539] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.47, y=59.00, z=-793.64]
+[03May2025 09:02:14.540] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:02:14.540] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.47, y=59.00, z=-793.64]
+[03May2025 09:02:15.533] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:02:15.533] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.47, y=59.00, z=-793.64]
+[03May2025 09:02:15.534] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:02:15.534] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.47, y=59.00, z=-793.64]
+[03May2025 09:02:42.541] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:02:42.542] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=301.94, y=59.00, z=-793.70]
+[03May2025 09:02:42.542] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:02:42.542] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=301.94, y=59.00, z=-793.70]
+[03May2025 09:02:43.539] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:02:43.540] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=301.54, y=59.00, z=-793.28]
+[03May2025 09:02:43.540] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:02:43.540] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=301.54, y=59.00, z=-793.28]
+[03May2025 09:02:44.534] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:02:44.535] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=301.54, y=59.00, z=-793.48]
+[03May2025 09:02:44.535] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:02:44.535] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=301.54, y=59.00, z=-793.48]
+[03May2025 09:02:45.542] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:02:45.542] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=301.54, y=59.00, z=-793.48]
+[03May2025 09:02:45.542] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:02:45.543] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=301.54, y=59.00, z=-793.48]
+[03May2025 09:02:46.542] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:02:46.542] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=301.54, y=59.00, z=-793.48]
+[03May2025 09:02:46.542] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:02:46.542] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=301.54, y=59.00, z=-793.48]
+[03May2025 09:02:47.539] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:02:47.539] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=301.54, y=59.00, z=-793.48]
+[03May2025 09:02:47.539] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:02:47.539] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=301.54, y=59.00, z=-793.48]
+[03May2025 09:02:48.540] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:02:48.540] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=301.54, y=59.00, z=-793.48]
+[03May2025 09:02:48.541] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:02:48.541] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=301.54, y=59.00, z=-793.48]
+[03May2025 09:02:49.542] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:02:49.542] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=301.54, y=59.00, z=-793.48]
+[03May2025 09:02:49.543] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:02:49.543] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=301.54, y=59.00, z=-793.48]
+[03May2025 09:02:50.536] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:02:50.536] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=301.54, y=59.00, z=-793.48]
+[03May2025 09:02:50.537] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:02:50.537] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=301.54, y=59.00, z=-793.48]
+[03May2025 09:02:51.535] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:02:51.535] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=301.54, y=59.00, z=-793.48]
+[03May2025 09:02:51.535] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:02:51.535] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=301.54, y=59.00, z=-793.48]
+[03May2025 09:02:52.542] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:02:52.542] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=301.54, y=59.00, z=-793.48]
+[03May2025 09:02:52.543] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:02:52.543] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=301.54, y=59.00, z=-793.48]
+[03May2025 09:02:53.538] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:02:53.538] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=301.54, y=59.00, z=-793.48]
+[03May2025 09:02:53.538] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:02:53.538] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=301.54, y=59.00, z=-793.48]
+[03May2025 09:02:54.542] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:02:54.542] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=301.54, y=59.00, z=-793.48]
+[03May2025 09:02:54.542] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:02:54.542] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=301.54, y=59.00, z=-793.48]
+[03May2025 09:02:56.536] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:02:56.536] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=301.54, y=59.00, z=-793.48]
+[03May2025 09:02:56.537] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:02:56.537] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=301.54, y=59.00, z=-793.48]
+[03May2025 09:02:57.537] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:02:57.537] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=301.54, y=60.18, z=-793.48]
+[03May2025 09:02:57.538] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:02:57.538] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=301.54, y=60.18, z=-793.48]
+[03May2025 09:02:58.538] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:02:58.538] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=301.54, y=59.75, z=-793.48]
+[03May2025 09:02:58.538] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:02:58.538] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=301.54, y=59.75, z=-793.48]
+[03May2025 09:02:59.542] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:02:59.542] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=301.54, y=60.00, z=-793.48]
+[03May2025 09:02:59.543] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:02:59.543] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=301.54, y=60.00, z=-793.48]
+[03May2025 09:03:13.541] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:03:13.541] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=301.54, y=59.00, z=-793.48]
+[03May2025 09:03:13.542] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:03:13.542] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=301.54, y=59.00, z=-793.48]
+[03May2025 09:03:23.539] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:03:23.539] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=301.70, y=59.00, z=-792.98]
+[03May2025 09:03:23.539] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:03:23.539] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=301.70, y=59.00, z=-792.98]
+[03May2025 09:03:26.544] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:03:26.544] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=301.70, y=59.00, z=-792.98]
+[03May2025 09:03:26.545] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:03:26.545] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=301.70, y=59.00, z=-792.98]
+[03May2025 09:03:27.538] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:03:27.538] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=301.70, y=59.00, z=-792.98]
+[03May2025 09:03:27.538] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:03:27.538] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=301.70, y=59.00, z=-792.98]
+[03May2025 09:03:28.542] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:03:28.542] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=301.70, y=59.00, z=-792.98]
+[03May2025 09:03:28.542] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:03:28.542] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=301.70, y=59.00, z=-792.98]
+[03May2025 09:03:29.536] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:03:29.536] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=301.70, y=59.00, z=-792.98]
+[03May2025 09:03:29.537] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:03:29.537] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=301.70, y=59.00, z=-792.98]
+[03May2025 09:03:30.540] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:03:30.540] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=301.70, y=59.00, z=-792.98]
+[03May2025 09:03:30.540] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:03:30.540] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=301.70, y=59.00, z=-792.98]
+[03May2025 09:03:34.545] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:03:34.545] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=301.70, y=59.00, z=-792.98]
+[03May2025 09:03:34.545] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:03:34.545] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=301.70, y=59.00, z=-792.98]
+[03May2025 09:03:35.534] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:03:35.534] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=301.70, y=59.00, z=-792.98]
+[03May2025 09:03:35.535] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:03:35.535] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=301.70, y=59.00, z=-792.98]
+[03May2025 09:03:36.537] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:03:36.537] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=301.70, y=59.00, z=-792.98]
+[03May2025 09:03:36.538] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:03:36.538] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=301.70, y=59.00, z=-792.98]
+[03May2025 09:03:37.546] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:03:37.546] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=301.70, y=59.00, z=-792.98]
+[03May2025 09:03:37.547] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:03:37.547] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=301.70, y=59.00, z=-792.98]
+[03May2025 09:03:38.537] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:03:38.537] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.08, y=59.00, z=-793.67]
+[03May2025 09:03:38.537] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:03:38.537] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.08, y=59.00, z=-793.67]
+[03May2025 09:03:41.536] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:03:41.537] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.45, y=59.25, z=-793.53]
+[03May2025 09:03:41.537] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:03:41.537] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.45, y=59.25, z=-793.53]
+[03May2025 09:03:42.542] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:03:42.542] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.45, y=59.00, z=-793.53]
+[03May2025 09:03:42.543] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:03:42.543] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.45, y=59.00, z=-793.53]
+[03May2025 09:03:43.549] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:03:43.549] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.45, y=59.00, z=-793.53]
+[03May2025 09:03:43.549] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:03:43.549] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.45, y=59.00, z=-793.53]
+[03May2025 09:03:46.538] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:03:46.538] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.45, y=59.00, z=-793.53]
+[03May2025 09:03:46.539] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:03:46.539] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.45, y=59.00, z=-793.53]
+[03May2025 09:03:47.534] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:03:47.534] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.45, y=59.00, z=-793.53]
+[03May2025 09:03:47.535] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:03:47.535] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.45, y=59.00, z=-793.53]
+[03May2025 09:03:48.537] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:03:48.537] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.45, y=59.00, z=-793.53]
+[03May2025 09:03:48.537] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:03:48.537] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.45, y=59.00, z=-793.53]
+[03May2025 09:03:49.535] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:03:49.535] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.45, y=59.00, z=-793.53]
+[03May2025 09:03:49.535] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:03:49.535] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.45, y=59.00, z=-793.53]
+[03May2025 09:03:50.534] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:03:50.534] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.45, y=59.00, z=-793.53]
+[03May2025 09:03:50.534] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:03:50.534] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.45, y=59.00, z=-793.53]
+[03May2025 09:03:51.534] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:03:51.535] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.45, y=59.00, z=-793.53]
+[03May2025 09:03:51.535] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:03:51.535] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.45, y=59.00, z=-793.53]
+[03May2025 09:03:52.537] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:03:52.537] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.45, y=59.00, z=-793.53]
+[03May2025 09:03:52.537] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:03:52.537] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.45, y=59.00, z=-793.53]
+[03May2025 09:03:54.538] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:03:54.538] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.45, y=59.00, z=-793.53]
+[03May2025 09:03:54.539] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:03:54.539] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.45, y=59.00, z=-793.53]
+[03May2025 09:03:55.538] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:03:55.539] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.45, y=59.00, z=-793.53]
+[03May2025 09:03:55.539] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:03:55.539] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.45, y=59.00, z=-793.53]
+[03May2025 09:03:56.542] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:03:56.542] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.45, y=59.00, z=-793.53]
+[03May2025 09:03:56.543] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:03:56.543] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.45, y=59.00, z=-793.53]
+[03May2025 09:03:57.540] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:03:57.540] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.45, y=59.00, z=-793.53]
+[03May2025 09:03:57.540] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:03:57.540] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.45, y=59.00, z=-793.53]
+[03May2025 09:03:58.538] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:03:58.538] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.45, y=59.00, z=-793.53]
+[03May2025 09:03:58.539] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:03:58.539] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.45, y=59.00, z=-793.53]
+[03May2025 09:03:59.537] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:03:59.537] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.45, y=59.00, z=-793.53]
+[03May2025 09:03:59.538] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:03:59.538] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.45, y=59.00, z=-793.53]
+[03May2025 09:04:00.541] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:04:00.541] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.45, y=59.00, z=-793.53]
+[03May2025 09:04:00.542] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:04:00.542] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.45, y=59.00, z=-793.53]
+[03May2025 09:04:01.538] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:04:01.538] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.45, y=59.00, z=-793.53]
+[03May2025 09:04:01.538] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:04:01.539] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.45, y=59.00, z=-793.53]
+[03May2025 09:04:02.538] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:04:02.538] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.45, y=59.00, z=-793.53]
+[03May2025 09:04:02.539] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:04:02.539] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.45, y=59.00, z=-793.53]
+[03May2025 09:04:03.542] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:04:03.542] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.45, y=59.00, z=-793.53]
+[03May2025 09:04:03.542] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:04:03.543] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.45, y=59.00, z=-793.53]
+[03May2025 09:04:04.549] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:04:04.549] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.45, y=59.00, z=-793.53]
+[03May2025 09:04:04.549] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:04:04.549] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.45, y=59.00, z=-793.53]
+[03May2025 09:04:05.534] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:04:05.534] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.45, y=59.00, z=-793.53]
+[03May2025 09:04:05.535] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:04:05.535] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.45, y=59.00, z=-793.53]
+[03May2025 09:04:06.538] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:04:06.539] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.45, y=59.00, z=-793.53]
+[03May2025 09:04:06.539] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:04:06.539] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.45, y=59.00, z=-793.53]
+[03May2025 09:04:07.536] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:04:07.536] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.45, y=59.00, z=-793.53]
+[03May2025 09:04:07.537] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:04:07.537] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.45, y=59.00, z=-793.53]
+[03May2025 09:04:08.537] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:04:08.537] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.45, y=59.00, z=-793.53]
+[03May2025 09:04:08.538] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:04:08.538] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.45, y=59.00, z=-793.53]
+[03May2025 09:04:09.541] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:04:09.541] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.45, y=59.00, z=-793.53]
+[03May2025 09:04:09.541] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:04:09.541] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.45, y=59.00, z=-793.53]
+[03May2025 09:04:10.540] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:04:10.541] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.45, y=59.00, z=-793.53]
+[03May2025 09:04:10.541] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:04:10.541] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.45, y=59.00, z=-793.53]
+[03May2025 09:04:11.535] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:04:11.535] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.45, y=59.00, z=-793.53]
+[03May2025 09:04:11.535] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:04:11.535] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.45, y=59.00, z=-793.53]
+[03May2025 09:04:12.539] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:04:12.539] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.45, y=59.00, z=-793.53]
+[03May2025 09:04:12.539] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:04:12.539] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.45, y=59.00, z=-793.53]
+[03May2025 09:04:13.534] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:04:13.535] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.45, y=59.75, z=-793.53]
+[03May2025 09:04:13.535] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:04:13.535] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.45, y=59.75, z=-793.53]
+[03May2025 09:04:17.536] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:04:17.536] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.70, y=59.00, z=-793.46]
+[03May2025 09:04:17.537] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:04:17.537] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.70, y=59.00, z=-793.46]
+[03May2025 09:04:30.541] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:04:30.541] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.67, y=59.04, z=-793.70]
+[03May2025 09:04:30.542] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:04:30.542] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.67, y=59.04, z=-793.70]
+[03May2025 09:04:31.536] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:04:31.536] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.05, y=59.50, z=-793.41]
+[03May2025 09:04:31.536] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:04:31.536] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.05, y=59.50, z=-793.41]
+[03May2025 09:04:34.538] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:04:34.538] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.38, y=59.00, z=-793.58]
+[03May2025 09:04:34.539] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:04:34.539] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=302.38, y=59.00, z=-793.58]
+[03May2025 09:04:34.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI was killed by magic
+[03May2025 09:04:36.219] [Server thread/DEBUG] [twilightforest/]: Player IDetesDI (aa2e3652-fa32-39a6-b398-150744bf0023) respawned and received items held in storage
+[03May2025 09:04:53.552] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:04:53.552] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=289.82, y=64.75, z=-782.64]
+[03May2025 09:04:53.553] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:04:53.553] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=289.82, y=64.75, z=-782.64]
+[03May2025 09:05:48.562] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 09:05:48.578] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 09:05:50.533] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:05:50.533] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=224.40, y=63.12, z=-832.97]
+[03May2025 09:05:50.533] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:05:50.533] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=224.40, y=63.12, z=-832.97]
+[03May2025 09:05:54.538] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:05:54.538] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: EntityTerrapin['Terrapin'/83290, l='ServerLevel[world]', x=231.66, y=60.53, z=-819.16]
+[03May2025 09:05:54.538] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:05:54.538] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: EntityTerrapin['Terrapin'/83290, l='ServerLevel[world]', x=231.66, y=60.53, z=-819.16]
+[03May2025 09:05:55.534] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:05:55.534] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: EntityTerrapin['Terrapin'/83290, l='ServerLevel[world]', x=231.69, y=59.65, z=-818.69]
+[03May2025 09:05:55.534] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:05:55.534] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: EntityTerrapin['Terrapin'/83290, l='ServerLevel[world]', x=231.69, y=59.65, z=-818.69]
+[03May2025 09:06:32.537] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:06:32.537] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=327.77, y=62.43, z=-813.80]
+[03May2025 09:06:32.538] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:06:32.538] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=327.77, y=62.43, z=-813.80]
+[03May2025 09:06:32.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was slain by IDetesDI
+[03May2025 09:06:34.221] [Server thread/DEBUG] [twilightforest/]: Player Emilianano (fcd18d43-9ceb-3769-a5df-b51fa37b6d2a) respawned and received items held in storage
+[03May2025 09:06:44.185] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:06:44.186] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=330.23, y=63.00, z=-816.11]
+[03May2025 09:06:44.186] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:06:44.186] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=330.23, y=63.00, z=-816.11]
+[03May2025 09:06:45.187] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:06:45.188] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=332.08, y=63.00, z=-816.04]
+[03May2025 09:06:45.188] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:06:45.188] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=332.08, y=63.00, z=-816.04]
+[03May2025 09:06:46.183] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:06:46.183] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=332.36, y=63.00, z=-815.86]
+[03May2025 09:06:46.183] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:06:46.183] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=332.36, y=63.00, z=-815.86]
+[03May2025 09:06:47.186] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:06:47.186] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=332.36, y=63.00, z=-815.86]
+[03May2025 09:06:47.186] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:06:47.186] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=332.36, y=63.00, z=-815.86]
+[03May2025 09:06:48.193] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:06:48.193] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=332.36, y=63.00, z=-815.86]
+[03May2025 09:06:48.194] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:06:48.194] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=332.36, y=63.00, z=-815.86]
+[03May2025 09:06:55.188] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:06:55.188] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=332.36, y=63.00, z=-815.86]
+[03May2025 09:06:55.188] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:06:55.188] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=332.36, y=63.00, z=-815.86]
+[03May2025 09:06:56.184] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:06:56.184] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=332.36, y=63.00, z=-815.86]
+[03May2025 09:06:56.185] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:06:56.185] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=332.36, y=63.00, z=-815.86]
+[03May2025 09:06:57.188] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:06:57.188] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=332.43, y=63.00, z=-816.36]
+[03May2025 09:06:57.188] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:06:57.188] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=332.43, y=63.00, z=-816.36]
+[03May2025 09:07:03.188] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:07:03.188] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=330.85, y=63.00, z=-819.65]
+[03May2025 09:07:03.188] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:07:03.188] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=330.85, y=63.00, z=-819.65]
+[03May2025 09:07:04.185] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:07:04.186] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=330.85, y=63.00, z=-819.65]
+[03May2025 09:07:04.186] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:07:04.186] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=330.85, y=63.00, z=-819.65]
+[03May2025 09:07:05.186] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:07:05.186] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=330.85, y=63.00, z=-819.65]
+[03May2025 09:07:05.186] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:07:05.186] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=330.85, y=63.00, z=-819.65]
+[03May2025 09:07:06.190] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:07:06.190] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: EntityBabyFoliaath['Baby Foliaath'/83979, l='ServerLevel[world]', x=330.50, y=63.00, z=-820.50]
+[03May2025 09:07:06.191] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:07:06.191] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: EntityBabyFoliaath['Baby Foliaath'/83979, l='ServerLevel[world]', x=330.50, y=63.00, z=-820.50]
+[03May2025 09:07:06.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI was slain by Emilianano using [Arachne's Weaving]
+[03May2025 09:07:07.186] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:07:07.186] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: EntityBabyFoliaath['Baby Foliaath'/83979, l='ServerLevel[world]', x=330.50, y=63.00, z=-820.50]
+[03May2025 09:07:07.186] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:07:07.187] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: EntityBabyFoliaath['Baby Foliaath'/83980, l='ServerLevel[world]', x=330.50, y=63.00, z=-821.50]
+[03May2025 09:07:07.187] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:07:07.187] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: EntityBabyFoliaath['Baby Foliaath'/83979, l='ServerLevel[world]', x=330.50, y=63.00, z=-820.50]
+[03May2025 09:07:07.187] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:07:07.187] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: EntityBabyFoliaath['Baby Foliaath'/83980, l='ServerLevel[world]', x=330.50, y=63.00, z=-821.50]
+[03May2025 09:07:07.773] [Server thread/DEBUG] [twilightforest/]: Player IDetesDI (aa2e3652-fa32-39a6-b398-150744bf0023) respawned and received items held in storage
+[03May2025 09:07:08.210] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:07:08.211] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: EntityBabyFoliaath['Baby Foliaath'/83979, l='ServerLevel[world]', x=330.50, y=63.00, z=-820.50]
+[03May2025 09:07:08.211] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:07:08.211] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: EntityBabyFoliaath['Baby Foliaath'/83980, l='ServerLevel[world]', x=330.50, y=63.00, z=-821.50]
+[03May2025 09:07:08.211] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:07:08.211] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: EntityBabyFoliaath['Baby Foliaath'/83979, l='ServerLevel[world]', x=330.50, y=63.00, z=-820.50]
+[03May2025 09:07:08.211] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:07:08.211] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: EntityBabyFoliaath['Baby Foliaath'/83980, l='ServerLevel[world]', x=330.50, y=63.00, z=-821.50]
+[03May2025 09:07:25.187] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:07:25.187] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: EntityBabyFoliaath['Baby Foliaath'/83980, l='ServerLevel[world]', x=330.50, y=63.00, z=-821.50]
+[03May2025 09:07:25.187] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:07:25.187] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=329.24, y=63.00, z=-820.85]
+[03May2025 09:07:25.188] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:07:25.188] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: EntityBabyFoliaath['Baby Foliaath'/83980, l='ServerLevel[world]', x=330.50, y=63.00, z=-821.50]
+[03May2025 09:07:25.188] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:07:25.188] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=329.24, y=63.00, z=-820.85]
+[03May2025 09:07:37.186] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:07:37.186] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: EntityBabyFoliaath['Baby Foliaath'/83979, l='ServerLevel[world]', x=330.50, y=63.00, z=-820.50]
+[03May2025 09:07:37.186] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:07:37.186] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: EntityBabyFoliaath['Baby Foliaath'/83980, l='ServerLevel[world]', x=330.50, y=63.00, z=-821.50]
+[03May2025 09:07:37.186] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:07:37.186] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=329.24, y=63.00, z=-820.85]
+[03May2025 09:07:37.186] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:07:37.186] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: EntityBabyFoliaath['Baby Foliaath'/83979, l='ServerLevel[world]', x=330.50, y=63.00, z=-820.50]
+[03May2025 09:07:37.186] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:07:37.186] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: EntityBabyFoliaath['Baby Foliaath'/83980, l='ServerLevel[world]', x=330.50, y=63.00, z=-821.50]
+[03May2025 09:07:37.186] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:07:37.186] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=329.24, y=63.00, z=-820.85]
+[03May2025 09:07:42.186] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:07:42.186] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: EntityBabyFoliaath['Baby Foliaath'/83979, l='ServerLevel[world]', x=330.50, y=63.00, z=-820.50]
+[03May2025 09:07:42.186] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:07:42.186] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: EntityBabyFoliaath['Baby Foliaath'/83980, l='ServerLevel[world]', x=330.50, y=63.00, z=-821.50]
+[03May2025 09:07:42.186] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:07:42.186] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=329.24, y=63.00, z=-820.85]
+[03May2025 09:07:42.187] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:07:42.187] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: EntityBabyFoliaath['Baby Foliaath'/83979, l='ServerLevel[world]', x=330.50, y=63.00, z=-820.50]
+[03May2025 09:07:42.187] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:07:42.187] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: EntityBabyFoliaath['Baby Foliaath'/83980, l='ServerLevel[world]', x=330.50, y=63.00, z=-821.50]
+[03May2025 09:07:42.187] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:07:42.187] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=329.24, y=63.00, z=-820.85]
+[03May2025 09:07:46.188] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:07:46.188] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: EntityBabyFoliaath['Baby Foliaath'/83980, l='ServerLevel[world]', x=330.50, y=63.00, z=-821.50]
+[03May2025 09:07:46.188] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:07:46.188] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=329.24, y=63.00, z=-820.85]
+[03May2025 09:07:46.188] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:07:46.188] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: EntityBabyFoliaath['Baby Foliaath'/83980, l='ServerLevel[world]', x=330.50, y=63.00, z=-821.50]
+[03May2025 09:07:46.188] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:07:46.188] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=329.24, y=63.00, z=-820.85]
+[03May2025 09:07:47.188] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:07:47.189] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: EntityBabyFoliaath['Baby Foliaath'/83979, l='ServerLevel[world]', x=330.50, y=63.00, z=-820.50]
+[03May2025 09:07:47.189] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:07:47.189] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: EntityBabyFoliaath['Baby Foliaath'/83980, l='ServerLevel[world]', x=330.50, y=63.00, z=-821.50]
+[03May2025 09:07:47.189] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:07:47.189] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=329.24, y=63.00, z=-820.85]
+[03May2025 09:07:47.189] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:07:47.189] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: EntityBabyFoliaath['Baby Foliaath'/83979, l='ServerLevel[world]', x=330.50, y=63.00, z=-820.50]
+[03May2025 09:07:47.189] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:07:47.189] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: EntityBabyFoliaath['Baby Foliaath'/83980, l='ServerLevel[world]', x=330.50, y=63.00, z=-821.50]
+[03May2025 09:07:47.189] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:07:47.189] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=329.24, y=63.00, z=-820.85]
+[03May2025 09:07:53.237] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:07:53.237] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: EntityBabyFoliaath['Baby Foliaath'/83980, l='ServerLevel[world]', x=330.50, y=63.00, z=-821.50]
+[03May2025 09:07:53.237] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:07:53.237] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: EntityBabyFoliaath['Baby Foliaath'/83980, l='ServerLevel[world]', x=330.50, y=63.00, z=-821.50]
+[03May2025 09:07:54.185] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:07:54.185] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: EntityBabyFoliaath['Baby Foliaath'/83980, l='ServerLevel[world]', x=330.50, y=63.00, z=-821.50]
+[03May2025 09:07:54.185] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:07:54.185] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=329.24, y=63.00, z=-820.85]
+[03May2025 09:07:54.186] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:07:54.186] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: EntityBabyFoliaath['Baby Foliaath'/83980, l='ServerLevel[world]', x=330.50, y=63.00, z=-821.50]
+[03May2025 09:07:54.186] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:07:54.186] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ServerPlayer['IDetesDI'/320, l='ServerLevel[world]', x=329.24, y=63.00, z=-820.85]
+[03May2025 09:08:30.191] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:08:30.191] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Salmon['Salmon'/83409, l='ServerLevel[world]', x=300.63, y=60.00, z=-814.50]
+[03May2025 09:08:30.192] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:08:30.192] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Salmon['Salmon'/83409, l='ServerLevel[world]', x=300.63, y=60.00, z=-814.50]
+[03May2025 09:08:32.188] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:08:32.189] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Salmon['Salmon'/84399, l='ServerLevel[world]', x=292.49, y=59.99, z=-819.42]
+[03May2025 09:08:32.189] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:08:32.189] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Salmon['Salmon'/84398, l='ServerLevel[world]', x=291.16, y=61.19, z=-819.70]
+[03May2025 09:08:32.189] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:08:32.189] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Salmon['Salmon'/84399, l='ServerLevel[world]', x=292.49, y=59.99, z=-819.42]
+[03May2025 09:08:32.189] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:08:32.189] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Salmon['Salmon'/84398, l='ServerLevel[world]', x=291.16, y=61.19, z=-819.70]
+[03May2025 09:09:02.200] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:09:02.201] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: EntityCrow['Crow'/78867, l='ServerLevel[world]', x=173.47, y=68.94, z=-733.57]
+[03May2025 09:09:02.201] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:09:02.201] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: EntityCrow['Crow'/78867, l='ServerLevel[world]', x=173.47, y=68.94, z=-733.57]
+[03May2025 09:09:02.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IDetesDI: Summoned new Dragon Fire Charge]
+[03May2025 09:09:03.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI was slain by The Bigger Suck
+[03May2025 09:09:05.377] [Server thread/DEBUG] [twilightforest/]: Player IDetesDI (aa2e3652-fa32-39a6-b398-150744bf0023) respawned and received items held in storage
+[03May2025 09:09:34.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IDetesDI: Summoned new Fire Dragon]
+[03May2025 09:09:47.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano has made the advancement [Surge Protector]
+[03May2025 09:10:06.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI was slain by Fire Dragon
+[03May2025 09:10:07.189] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:10:07.189] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Villager['Nitwit'/78827, l='ServerLevel[world]', x=170.69, y=70.56, z=-724.50]
+[03May2025 09:10:07.189] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:10:07.190] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Villager['Nitwit'/78827, l='ServerLevel[world]', x=170.69, y=70.56, z=-724.50]
+[03May2025 09:10:08.184] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:10:08.184] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Villager['Nitwit'/78827, l='ServerLevel[world]', x=170.71, y=70.56, z=-724.46]
+[03May2025 09:10:08.185] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:10:08.185] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Villager['Nitwit'/78827, l='ServerLevel[world]', x=170.71, y=70.56, z=-724.46]
+[03May2025 09:10:08.302] [Server thread/DEBUG] [twilightforest/]: Player IDetesDI (aa2e3652-fa32-39a6-b398-150744bf0023) respawned and received items held in storage
+[03May2025 09:10:09.190] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:10:09.190] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Villager['Nitwit'/78827, l='ServerLevel[world]', x=170.77, y=70.56, z=-724.85]
+[03May2025 09:10:09.190] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:10:09.190] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Villager['Nitwit'/78827, l='ServerLevel[world]', x=170.77, y=70.56, z=-724.85]
+[03May2025 09:10:10.188] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:10:10.188] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Villager['Nitwit'/78827, l='ServerLevel[world]', x=170.77, y=70.56, z=-724.85]
+[03May2025 09:10:10.189] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:10:10.189] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Villager['Nitwit'/78827, l='ServerLevel[world]', x=170.77, y=70.56, z=-724.85]
+[03May2025 09:10:17.195] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:10:17.195] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Villager['Nitwit'/78827, l='ServerLevel[world]', x=170.77, y=70.56, z=-724.85]
+[03May2025 09:10:17.195] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:10:17.195] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Villager['Nitwit'/78827, l='ServerLevel[world]', x=170.77, y=70.56, z=-724.85]
+[03May2025 09:10:18.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IDetesDI: Summoned new Fire Dragon]
+[03May2025 09:10:45.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IDetesDI: Summoned new Atlatitan]
+[03May2025 09:10:48.563] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 09:10:48.578] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 09:10:57.187] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:10:57.187] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Villager['Nitwit'/78827, l='ServerLevel[world]', x=170.77, y=70.56, z=-724.85]
+[03May2025 09:10:57.187] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:10:57.187] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Villager['Nitwit'/78827, l='ServerLevel[world]', x=170.77, y=70.56, z=-724.85]
+[03May2025 09:10:58.190] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:10:58.190] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Villager['Nitwit'/78827, l='ServerLevel[world]', x=170.77, y=70.56, z=-724.85]
+[03May2025 09:10:58.191] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:10:58.191] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Villager['Nitwit'/78827, l='ServerLevel[world]', x=170.77, y=70.56, z=-724.85]
+[03May2025 09:10:59.188] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:10:59.188] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Villager['Nitwit'/78827, l='ServerLevel[world]', x=170.77, y=70.56, z=-724.85]
+[03May2025 09:10:59.189] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:10:59.189] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Villager['Nitwit'/78827, l='ServerLevel[world]', x=170.77, y=70.56, z=-724.85]
+[03May2025 09:11:00.190] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:11:00.191] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Villager['Nitwit'/78827, l='ServerLevel[world]', x=170.77, y=70.56, z=-724.85]
+[03May2025 09:11:00.191] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:11:00.191] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Villager['Nitwit'/78827, l='ServerLevel[world]', x=170.77, y=70.56, z=-724.85]
+[03May2025 09:11:01.188] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:11:01.188] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Villager['Nitwit'/78827, l='ServerLevel[world]', x=170.77, y=70.56, z=-724.85]
+[03May2025 09:11:01.188] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 09:11:01.189] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Villager['Nitwit'/78827, l='ServerLevel[world]', x=170.77, y=70.56, z=-724.85]
