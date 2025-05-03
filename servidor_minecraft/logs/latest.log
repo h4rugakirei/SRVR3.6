@@ -4990,3 +4990,177 @@ java.lang.NullPointerException: Element not found: amount
 [03May2025 08:27:20.114] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
 [03May2025 08:27:20.114] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
 [03May2025 08:30:07.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI has made the advancement [Danger: High Voltage]
+[03May2025 08:30:22.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI has made the advancement [Wireless Network]
+[03May2025 08:31:27.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano has made the advancement [Disturbing the Dead I]
+[03May2025 08:32:17.406] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 08:32:18.107] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 08:32:32.092] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 08:32:32.792] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 08:32:33.495] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 08:36:46.591] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:46.591] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:46.591] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:46.597] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:46.597] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:46.597] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:46.597] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:46.597] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:46.597] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:46.597] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:46.598] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:46.598] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:46.598] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:46.598] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:46.814] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:46.814] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:46.814] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:46.814] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:46.814] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:46.814] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:46.815] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:46.815] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:46.815] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:46.815] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:46.815] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:46.815] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:46.815] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:46.815] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:46.815] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:46.815] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:46.815] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:46.815] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:46.815] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:46.815] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:46.815] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:46.815] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:46.816] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:46.816] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:46.816] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:46.816] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:46.816] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:49.567] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:49.567] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:49.567] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:49.568] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:49.568] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:49.568] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:49.568] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:49.568] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:49.568] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:49.568] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:49.568] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:49.568] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:49.568] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:49.568] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:49.568] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:49.568] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:49.568] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:49.568] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:49.568] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:49.568] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:49.757] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:49.757] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:49.757] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:49.757] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:49.757] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:49.757] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:49.757] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:49.758] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:49.758] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:49.758] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:49.758] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:49.758] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:49.758] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:49.758] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:49.758] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:49.758] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:49.758] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:49.758] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:49.758] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:49.758] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:39:36.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was shot by Skeleton
+[03May2025 08:40:10.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI was slain by Mayan Warrior
+[03May2025 08:41:43.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was slain by Sucker
+[03May2025 08:41:56.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was slain by Sucker
+[03May2025 08:42:10.023] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Exception loading entity: 
+net.minecraft.ReportedException: Loading entity NBT
+	at net.minecraft.world.entity.Entity.m_20258_(Entity.java:1765) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	at net.minecraft.world.entity.EntityType.m_185988_(EntityType.java:532) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	at net.minecraft.Util.m_137521_(Util.java:419) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	at net.minecraft.world.entity.EntityType.m_20642_(EntityType.java:529) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	at net.minecraft.world.entity.EntityType.m_20669_(EntityType.java:607) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	at net.minecraft.world.entity.EntityType.m_20645_(EntityType.java:563) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	at net.minecraft.world.entity.EntityType$1.m_147056_(EntityType.java:584) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	at java.util.Spliterators$IteratorSpliterator.tryAdvance(Spliterators.java:1856) ~[?:?]
+	at net.minecraft.world.entity.EntityType$1.tryAdvance(EntityType.java:583) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	at java.util.Spliterator.forEachRemaining(Spliterator.java:332) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:921) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:682) ~[?:?]
+	at net.minecraft.world.level.chunk.storage.EntityStorage.m_223456_(EntityStorage.java:62) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:646) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18759_(ProcessorMailbox.java:91) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18747_(ProcessorMailbox.java:146) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.run(ProcessorMailbox.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IllegalStateException: Entity has invalid position
+	at net.minecraft.world.entity.Entity.m_20258_(Entity.java:1759) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	... 33 more
+[03May2025 08:43:40.548] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 08:43:53.640] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 08:44:07.237] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 08:44:08.437] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 08:44:10.260] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 08:44:12.638] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 08:44:13.738] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 08:44:20.187] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 08:44:26.934] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 08:44:28.535] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 08:45:21.033] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 08:45:21.136] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 08:45:21.241] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 08:45:21.336] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 08:45:21.439] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 08:45:21.537] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 08:45:21.640] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 08:45:21.742] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 08:45:21.840] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 08:45:21.938] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 08:45:22.039] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 08:45:39.434] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 08:45:41.033] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 08:45:41.633] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 08:45:43.437] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 08:46:07.699] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 08:46:08.405] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 08:46:09.110] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 08:46:30.489] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 08:46:59.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IDetesDI: Set the time to 13000]
+[03May2025 08:47:01.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI has made the advancement [I Want To Believe]
+[03May2025 08:47:01.641] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 08:47:04.737] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 08:47:36.782] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 08:47:37.487] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 08:47:39.188] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 08:47:56.289] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 08:48:02.197] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 08:48:04.597] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 08:48:06.988] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 08:48:16.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was blown up by Death Worm
+[03May2025 08:49:42.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano has made the advancement [The Desert Swimmers]
+[03May2025 08:50:12.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI has completed the challenge [Divine Favor]

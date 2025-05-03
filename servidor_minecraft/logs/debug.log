@@ -14744,3 +14744,1233 @@ java.lang.NullPointerException: Element not found: amount
 [03May2025 08:29:59.479] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
 [03May2025 08:29:59.479] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: EntityManedWolf['Maned Wolf'/49176, l='ServerLevel[world]', x=669.10, y=64.00, z=-1100.04]
 [03May2025 08:30:07.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI has made the advancement [Danger: High Voltage]
+[03May2025 08:30:19.467] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:30:19.467] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: EntityRhinoceros['Rhinoceros'/54418, l='ServerLevel[world]', x=786.48, y=66.00, z=-1110.02]
+[03May2025 08:30:19.468] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:30:19.468] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: EntityRhinoceros['Rhinoceros'/54418, l='ServerLevel[world]', x=786.48, y=66.00, z=-1110.02]
+[03May2025 08:30:20.505] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:30:20.505] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: EntityRhinoceros['Rhinoceros'/54418, l='ServerLevel[world]', x=786.48, y=66.00, z=-1110.02]
+[03May2025 08:30:20.506] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:30:20.506] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: EntityRhinoceros['Rhinoceros'/54418, l='ServerLevel[world]', x=786.48, y=66.00, z=-1110.02]
+[03May2025 08:30:22.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI has made the advancement [Wireless Network]
+[03May2025 08:30:29.452] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:30:29.453] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: EntityRhinoceros['Rhinoceros'/54418, l='ServerLevel[world]', x=786.54, y=66.00, z=-1110.02]
+[03May2025 08:30:29.453] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:30:29.453] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: EntityRhinoceros['Rhinoceros'/54418, l='ServerLevel[world]', x=786.54, y=66.00, z=-1110.02]
+[03May2025 08:30:48.598] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 08:30:48.614] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 08:31:04.449] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:31:04.449] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: EntityRhinoceros['Rhinoceros'/54127, l='ServerLevel[world]', x=786.31, y=67.00, z=-1105.86]
+[03May2025 08:31:04.449] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:31:04.449] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: EntityRhinoceros['Rhinoceros'/54127, l='ServerLevel[world]', x=786.31, y=67.00, z=-1105.86]
+[03May2025 08:31:05.446] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:31:05.446] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: EntityRhinoceros['Rhinoceros'/54127, l='ServerLevel[world]', x=786.74, y=67.00, z=-1106.23]
+[03May2025 08:31:05.446] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:31:05.446] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: EntityRhinoceros['Rhinoceros'/54127, l='ServerLevel[world]', x=786.74, y=67.00, z=-1106.23]
+[03May2025 08:31:06.454] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:31:06.454] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: EntityRhinoceros['Rhinoceros'/54127, l='ServerLevel[world]', x=787.12, y=67.00, z=-1106.42]
+[03May2025 08:31:06.455] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:31:06.455] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: EntityRhinoceros['Rhinoceros'/54127, l='ServerLevel[world]', x=787.12, y=67.00, z=-1106.42]
+[03May2025 08:31:14.484] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:31:14.484] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: EntityGazelle['Gazelle'/56655, l='ServerLevel[world]', x=820.11, y=71.00, z=-1094.12]
+[03May2025 08:31:14.484] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:31:14.484] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: EntityGazelle['Gazelle'/56655, l='ServerLevel[world]', x=820.11, y=71.00, z=-1094.12]
+[03May2025 08:31:27.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano has made the advancement [Disturbing the Dead I]
+[03May2025 08:32:17.406] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 08:32:18.107] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 08:32:32.092] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 08:32:32.792] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 08:32:33.495] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 08:35:48.595] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 08:35:48.612] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 08:36:46.591] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:46.591] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:46.591] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:46.597] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:46.597] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:46.597] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:46.597] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:46.597] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:46.597] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:46.597] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:46.598] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:46.598] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:46.598] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:46.598] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:46.814] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:46.814] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:46.814] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:46.814] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:46.814] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:46.814] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:46.815] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:46.815] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:46.815] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:46.815] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:46.815] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:46.815] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:46.815] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:46.815] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:46.815] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:46.815] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:46.815] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:46.815] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:46.815] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:46.815] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:46.815] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:46.815] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:46.816] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:46.816] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:46.816] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:46.816] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:46.816] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:49.567] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:49.567] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:49.567] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:49.568] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:49.568] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:49.568] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:49.568] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:49.568] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:49.568] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:49.568] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:49.568] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:49.568] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:49.568] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:49.568] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:49.568] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:49.568] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:49.568] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:49.568] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:49.568] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:49.568] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:49.757] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:49.757] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:49.757] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:49.757] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:49.757] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:49.757] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:49.757] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:49.758] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:49.758] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:49.758] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:49.758] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:49.758] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:49.758] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:49.758] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:49.758] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:49.758] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:49.758] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:49.758] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:49.758] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:36:49.758] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:37:08.768] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1278, y=5, z=-1015}
+[03May2025 08:37:10.687] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1287, y=18, z=-1020}
+[03May2025 08:37:10.799] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1292, y=18, z=-1006}
+[03May2025 08:37:10.799] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1303, y=18, z=-1019}
+[03May2025 08:37:10.800] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1292, y=18, z=-1011}
+[03May2025 08:37:10.800] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1278, y=5, z=-1015}
+[03May2025 08:37:10.801] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1296, y=18, z=-1014}
+[03May2025 08:37:10.802] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1287, y=18, z=-1020}
+[03May2025 08:37:11.610] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1292, y=18, z=-1006}
+[03May2025 08:37:11.610] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1302, y=18, z=-1005}
+[03May2025 08:37:11.719] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1314, y=18, z=-958}
+[03May2025 08:37:20.341] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1305, y=18, z=-1022}
+[03May2025 08:37:20.353] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1324, y=18, z=-1012}
+[03May2025 08:37:20.354] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1318, y=18, z=-1021}
+[03May2025 08:37:20.355] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1292, y=18, z=-1006}
+[03May2025 08:37:20.355] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1305, y=18, z=-1022}
+[03May2025 08:37:20.356] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1303, y=18, z=-1019}
+[03May2025 08:37:20.356] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1292, y=18, z=-1011}
+[03May2025 08:37:20.356] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1296, y=18, z=-1014}
+[03May2025 08:37:20.473] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1324, y=18, z=-1012}
+[03May2025 08:37:20.473] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1292, y=18, z=-1006}
+[03May2025 08:37:20.473] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1302, y=18, z=-1005}
+[03May2025 08:37:20.582] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1299, y=18, z=-959}
+[03May2025 08:37:20.583] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1298, y=18, z=-964}
+[03May2025 08:37:20.708] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1299, y=18, z=-959}
+[03May2025 08:37:20.709] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1314, y=18, z=-958}
+[03May2025 08:37:24.333] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1316, y=11, z=-1038}
+[03May2025 08:37:24.334] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1316, y=11, z=-1043}
+[03May2025 08:37:24.455] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1325, y=18, z=-1029}
+[03May2025 08:37:24.456] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1316, y=11, z=-1038}
+[03May2025 08:37:24.456] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1325, y=11, z=-1037}
+[03May2025 08:37:24.457] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1305, y=18, z=-1022}
+[03May2025 08:37:24.470] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1316, y=11, z=-1043}
+[03May2025 08:37:24.731] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1325, y=18, z=-1029}
+[03May2025 08:37:24.731] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1324, y=18, z=-1014}
+[03May2025 08:37:24.732] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1324, y=18, z=-1012}
+[03May2025 08:37:24.732] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1318, y=18, z=-1021}
+[03May2025 08:37:24.733] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1305, y=18, z=-1022}
+[03May2025 08:37:24.980] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1325, y=18, z=-1029}
+[03May2025 08:37:24.980] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1324, y=18, z=-1012}
+[03May2025 08:37:24.981] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1322, y=18, z=-1003}
+[03May2025 08:37:25.051] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1334, y=18, z=-963}
+[03May2025 08:37:25.052] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1318, y=18, z=-964}
+[03May2025 08:37:25.052] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1299, y=18, z=-959}
+[03May2025 08:37:25.067] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1334, y=18, z=-963}
+[03May2025 08:37:25.068] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1299, y=18, z=-959}
+[03May2025 08:37:25.068] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1327, y=18, z=-958}
+[03May2025 08:37:25.068] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1314, y=18, z=-958}
+[03May2025 08:37:28.592] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1334, y=11, z=-1031}
+[03May2025 08:37:28.593] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1316, y=11, z=-1038}
+[03May2025 08:37:28.603] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1332, y=18, z=-1022}
+[03May2025 08:37:28.603] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1334, y=11, z=-1031}
+[03May2025 08:37:28.605] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1325, y=18, z=-1029}
+[03May2025 08:37:28.605] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1316, y=11, z=-1038}
+[03May2025 08:37:28.745] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1349, y=18, z=-967}
+[03May2025 08:37:28.746] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1349, y=18, z=-965}
+[03May2025 08:37:28.746] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1334, y=18, z=-963}
+[03May2025 08:37:28.747] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1337, y=18, z=-966}
+[03May2025 08:37:28.786] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1332, y=18, z=-1022}
+[03May2025 08:37:28.787] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1345, y=18, z=-1021}
+[03May2025 08:37:28.787] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1325, y=18, z=-1029}
+[03May2025 08:37:28.969] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1325, y=18, z=-1029}
+[03May2025 08:37:28.977] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1349, y=18, z=-967}
+[03May2025 08:37:28.993] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1341, y=18, z=-944}
+[03May2025 08:37:29.004] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1349, y=18, z=-965}
+[03May2025 08:37:29.005] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1334, y=18, z=-963}
+[03May2025 08:37:29.005] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1347, y=18, z=-956}
+[03May2025 08:37:29.006] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1341, y=18, z=-944}
+[03May2025 08:38:01.129] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1334, y=11, z=-1031}
+[03May2025 08:38:01.314] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1359, y=18, z=-1024}
+[03May2025 08:38:01.315] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1332, y=18, z=-1022}
+[03May2025 08:38:01.315] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1334, y=11, z=-1031}
+[03May2025 08:38:01.382] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1357, y=18, z=-1000}
+[03May2025 08:38:01.382] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1356, y=18, z=-986}
+[03May2025 08:38:01.395] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1359, y=18, z=-1024}
+[03May2025 08:38:01.395] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1332, y=18, z=-1022}
+[03May2025 08:38:01.396] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1345, y=18, z=-1021}
+[03May2025 08:38:01.411] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1357, y=18, z=-1000}
+[03May2025 08:38:01.412] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1350, y=18, z=-982}
+[03May2025 08:38:01.413] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1356, y=18, z=-986}
+[03May2025 08:38:01.413] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1349, y=18, z=-967}
+[03May2025 08:38:02.626] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1357, y=18, z=-1000}
+[03May2025 08:38:02.626] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1350, y=18, z=-982}
+[03May2025 08:38:02.627] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1349, y=18, z=-967}
+[03May2025 08:38:02.629] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1349, y=18, z=-965}
+[03May2025 08:38:02.630] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1337, y=18, z=-966}
+[03May2025 08:38:02.745] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1341, y=18, z=-944}
+[03May2025 08:38:02.745] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1356, y=18, z=-943}
+[03May2025 08:38:02.746] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1367, y=18, z=-943}
+[03May2025 08:38:02.762] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1350, y=18, z=-982}
+[03May2025 08:38:02.762] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1349, y=18, z=-965}
+[03May2025 08:38:02.763] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1347, y=18, z=-956}
+[03May2025 08:38:02.763] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1341, y=18, z=-944}
+[03May2025 08:38:05.861] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1360, y=18, z=-1008}
+[03May2025 08:38:05.973] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1360, y=18, z=-1008}
+[03May2025 08:38:05.998] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1360, y=18, z=-1008}
+[03May2025 08:38:06.024] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1360, y=18, z=-1008}
+[03May2025 08:38:06.138] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1360, y=18, z=-1008}
+[03May2025 08:38:06.144] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1364, y=18, z=-1007}
+[03May2025 08:38:06.145] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1357, y=18, z=-1000}
+[03May2025 08:38:06.454] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1357, y=18, z=-1000}
+[03May2025 08:38:06.526] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1341, y=18, z=-944}
+[03May2025 08:38:06.538] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1357, y=18, z=-1000}
+[03May2025 08:38:06.630] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1341, y=18, z=-944}
+[03May2025 08:38:06.630] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1367, y=18, z=-943}
+[03May2025 08:38:11.283] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1360, y=18, z=-1008}
+[03May2025 08:38:11.289] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1389, y=18, z=-1036}
+[03May2025 08:38:11.289] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1394, y=18, z=-1039}
+[03May2025 08:38:11.290] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1384, y=38, z=-1026}
+[03May2025 08:38:11.290] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1394, y=38, z=-1025}
+[03May2025 08:38:11.290] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1383, y=38, z=-1031}
+[03May2025 08:38:11.429] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1360, y=18, z=-1008}
+[03May2025 08:38:11.435] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1389, y=31, z=-1014}
+[03May2025 08:38:11.435] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1389, y=18, z=-1036}
+[03May2025 08:38:11.435] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1394, y=38, z=-1025}
+[03May2025 08:38:11.517] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1360, y=18, z=-1008}
+[03May2025 08:38:11.520] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1364, y=18, z=-1007}
+[03May2025 08:38:11.562] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1360, y=18, z=-1008}
+[03May2025 08:38:11.567] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1394, y=18, z=-1039}
+[03May2025 08:38:11.692] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1360, y=18, z=-1008}
+[03May2025 08:38:11.698] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1396, y=18, z=-1058}
+[03May2025 08:38:26.910] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1412, y=31, z=-1009}
+[03May2025 08:38:27.077] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1389, y=31, z=-1014}
+[03May2025 08:38:27.078] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1389, y=18, z=-1036}
+[03May2025 08:38:27.078] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1419, y=31, z=-1014}
+[03May2025 08:38:27.078] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1402, y=31, z=-1015}
+[03May2025 08:38:27.079] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1412, y=31, z=-1009}
+[03May2025 08:38:27.079] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1404, y=16, z=-1047}
+[03May2025 08:38:27.081] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1394, y=38, z=-1025}
+[03May2025 08:38:27.847] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1397, y=18, z=-1069}
+[03May2025 08:38:27.847] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1402, y=18, z=-1070}
+[03May2025 08:38:27.848] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1396, y=18, z=-1058}
+[03May2025 08:38:27.974] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1403, y=18, z=-1037}
+[03May2025 08:38:27.975] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1397, y=18, z=-1069}
+[03May2025 08:38:27.975] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1394, y=18, z=-1039}
+[03May2025 08:38:27.975] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1404, y=16, z=-1047}
+[03May2025 08:38:27.986] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1389, y=18, z=-1036}
+[03May2025 08:38:27.986] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1403, y=18, z=-1037}
+[03May2025 08:38:27.987] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1402, y=31, z=-1015}
+[03May2025 08:38:27.989] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1394, y=18, z=-1039}
+[03May2025 08:38:27.989] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1404, y=16, z=-1047}
+[03May2025 08:38:27.990] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1384, y=38, z=-1026}
+[03May2025 08:38:27.991] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1394, y=38, z=-1025}
+[03May2025 08:38:27.991] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1383, y=38, z=-1031}
+[03May2025 08:38:49.464] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:38:49.464] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Pig['Pig'/60121, l='ServerLevel[world]', x=1191.17, y=65.00, z=-1019.61]
+[03May2025 08:38:49.465] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:38:49.465] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Pig['Pig'/60121, l='ServerLevel[world]', x=1191.17, y=65.00, z=-1019.61]
+[03May2025 08:38:50.448] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:38:50.448] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Pig['Pig'/60121, l='ServerLevel[world]', x=1190.50, y=65.00, z=-1021.03]
+[03May2025 08:38:50.449] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:38:50.449] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Pig['Pig'/60121, l='ServerLevel[world]', x=1190.50, y=65.00, z=-1021.03]
+[03May2025 08:39:03.513] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1402, y=18, z=-1070}
+[03May2025 08:39:03.540] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1404, y=16, z=-1047}
+[03May2025 08:39:03.710] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1419, y=31, z=-1014}
+[03May2025 08:39:03.710] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1402, y=31, z=-1015}
+[03May2025 08:39:03.712] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1437, y=31, z=-1014}
+[03May2025 08:39:03.712] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1412, y=31, z=-1009}
+[03May2025 08:39:03.712] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1404, y=16, z=-1047}
+[03May2025 08:39:03.713] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1431, y=31, z=-1009}
+[03May2025 08:39:03.713] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1422, y=29, z=-1015}
+[03May2025 08:39:03.723] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1402, y=31, z=-1015}
+[03May2025 08:39:03.725] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1404, y=16, z=-1047}
+[03May2025 08:39:03.727] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1422, y=29, z=-1015}
+[03May2025 08:39:03.980] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1412, y=31, z=-1009}
+[03May2025 08:39:03.980] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1431, y=31, z=-1009}
+[03May2025 08:39:08.763] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1437, y=31, z=-1014}
+[03May2025 08:39:08.763] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1404, y=16, z=-1047}
+[03May2025 08:39:08.764] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1455, y=31, z=-1014}
+[03May2025 08:39:08.764] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1431, y=31, z=-1009}
+[03May2025 08:39:08.764] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1422, y=29, z=-1015}
+[03May2025 08:39:08.765] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1447, y=31, z=-1009}
+[03May2025 08:39:08.773] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1431, y=31, z=-1009}
+[03May2025 08:39:08.773] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1447, y=31, z=-1009}
+[03May2025 08:39:09.237] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1404, y=16, z=-1047}
+[03May2025 08:39:09.253] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1404, y=16, z=-1047}
+[03May2025 08:39:09.254] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1422, y=29, z=-1015}
+[03May2025 08:39:14.455] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:39:14.455] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: BomberEntity['The Bomber'/61203, l='ServerLevel[world]', x=1219.73, y=71.00, z=-1002.83]
+[03May2025 08:39:14.456] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:39:14.456] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: BomberEntity['The Bomber'/61203, l='ServerLevel[world]', x=1219.73, y=71.00, z=-1002.83]
+[03May2025 08:39:36.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was shot by Skeleton
+[03May2025 08:39:38.356] [Server thread/DEBUG] [twilightforest/]: Player Emilianano (fcd18d43-9ceb-3769-a5df-b51fa37b6d2a) respawned and received items held in storage
+[03May2025 08:40:10.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI was slain by Mayan Warrior
+[03May2025 08:40:14.643] [Server thread/DEBUG] [twilightforest/]: Player IDetesDI (aa2e3652-fa32-39a6-b398-150744bf0023) respawned and received items held in storage
+[03May2025 08:40:17.662] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1447, y=31, z=-1009}
+[03May2025 08:40:17.803] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1455, y=31, z=-1014}
+[03May2025 08:40:17.803] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1422, y=29, z=-1015}
+[03May2025 08:40:17.804] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1447, y=31, z=-1009}
+[03May2025 08:40:17.804] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1455, y=31, z=-1018}
+[03May2025 08:40:17.811] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1422, y=29, z=-1015}
+[03May2025 08:40:17.812] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1455, y=31, z=-1018}
+[03May2025 08:40:17.812] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1462, y=31, z=-1036}
+[03May2025 08:40:17.873] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1462, y=31, z=-1036}
+[03May2025 08:40:31.257] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:40:31.257] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62369, l='ServerLevel[world]', x=1220.74, y=67.00, z=-1083.09]
+[03May2025 08:40:31.257] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:40:31.257] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62369, l='ServerLevel[world]', x=1220.74, y=67.00, z=-1083.09]
+[03May2025 08:40:33.258] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:40:33.258] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62369, l='ServerLevel[world]', x=1220.89, y=68.12, z=-1083.10]
+[03May2025 08:40:33.258] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:40:33.259] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62369, l='ServerLevel[world]', x=1220.89, y=68.12, z=-1083.10]
+[03May2025 08:40:34.249] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:40:34.249] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62369, l='ServerLevel[world]', x=1222.95, y=69.71, z=-1084.04]
+[03May2025 08:40:34.249] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:40:34.249] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62371, l='ServerLevel[world]', x=1223.75, y=67.41, z=-1083.90]
+[03May2025 08:40:34.250] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:40:34.250] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62369, l='ServerLevel[world]', x=1222.95, y=69.71, z=-1084.04]
+[03May2025 08:40:34.250] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:40:34.250] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62371, l='ServerLevel[world]', x=1223.75, y=67.41, z=-1083.90]
+[03May2025 08:40:38.258] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:40:38.258] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62372, l='ServerLevel[world]', x=1221.30, y=66.09, z=-1093.45]
+[03May2025 08:40:38.258] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:40:38.258] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Husk['Darshwen the Ogre Slayer'/62370, l='ServerLevel[world]', x=1221.31, y=66.25, z=-1089.75]
+[03May2025 08:40:38.258] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:40:38.258] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62369, l='ServerLevel[world]', x=1221.18, y=66.00, z=-1088.74]
+[03May2025 08:40:38.258] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:40:38.258] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62372, l='ServerLevel[world]', x=1221.30, y=66.09, z=-1093.45]
+[03May2025 08:40:38.258] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:40:38.258] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Husk['Darshwen the Ogre Slayer'/62370, l='ServerLevel[world]', x=1221.31, y=66.25, z=-1089.75]
+[03May2025 08:40:38.258] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:40:38.258] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62369, l='ServerLevel[world]', x=1221.18, y=66.00, z=-1088.74]
+[03May2025 08:40:39.273] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:40:39.273] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62369, l='ServerLevel[world]', x=1218.92, y=66.24, z=-1089.70]
+[03May2025 08:40:39.273] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:40:39.273] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62371, l='ServerLevel[world]', x=1219.71, y=65.23, z=-1090.01]
+[03May2025 08:40:39.273] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:40:39.273] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62369, l='ServerLevel[world]', x=1218.92, y=66.24, z=-1089.70]
+[03May2025 08:40:39.273] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:40:39.273] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62371, l='ServerLevel[world]', x=1219.71, y=65.23, z=-1090.01]
+[03May2025 08:40:40.254] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:40:40.254] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62369, l='ServerLevel[world]', x=1217.85, y=66.94, z=-1088.81]
+[03May2025 08:40:43.246] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:40:43.246] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62369, l='ServerLevel[world]', x=1216.54, y=68.00, z=-1084.43]
+[03May2025 08:40:43.246] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:40:43.246] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62369, l='ServerLevel[world]', x=1216.54, y=68.00, z=-1084.43]
+[03May2025 08:40:44.253] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:40:44.253] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62372, l='ServerLevel[world]', x=1217.48, y=68.00, z=-1080.22]
+[03May2025 08:40:44.254] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:40:44.254] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62372, l='ServerLevel[world]', x=1217.48, y=68.00, z=-1080.22]
+[03May2025 08:40:45.247] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:40:45.247] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62372, l='ServerLevel[world]', x=1215.67, y=70.00, z=-1078.74]
+[03May2025 08:40:45.247] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:40:45.247] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62372, l='ServerLevel[world]', x=1215.67, y=70.00, z=-1078.74]
+[03May2025 08:40:46.244] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:40:46.244] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62372, l='ServerLevel[world]', x=1214.30, y=72.57, z=-1078.61]
+[03May2025 08:40:46.244] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:40:46.244] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62371, l='ServerLevel[world]', x=1214.30, y=72.71, z=-1079.24]
+[03May2025 08:40:46.245] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:40:46.245] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62372, l='ServerLevel[world]', x=1214.30, y=72.57, z=-1078.61]
+[03May2025 08:40:46.245] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:40:46.245] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62371, l='ServerLevel[world]', x=1214.30, y=72.71, z=-1079.24]
+[03May2025 08:40:47.250] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:40:47.250] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62372, l='ServerLevel[world]', x=1213.10, y=70.43, z=-1078.66]
+[03May2025 08:40:47.250] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:40:47.250] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62371, l='ServerLevel[world]', x=1214.30, y=70.30, z=-1079.19]
+[03May2025 08:40:47.251] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:40:47.251] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62372, l='ServerLevel[world]', x=1213.10, y=70.43, z=-1078.66]
+[03May2025 08:40:47.251] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:40:47.251] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62371, l='ServerLevel[world]', x=1214.30, y=70.30, z=-1079.19]
+[03May2025 08:40:48.250] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:40:48.250] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62372, l='ServerLevel[world]', x=1212.97, y=70.00, z=-1078.17]
+[03May2025 08:40:48.250] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:40:48.250] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62371, l='ServerLevel[world]', x=1212.56, y=70.05, z=-1079.43]
+[03May2025 08:40:48.250] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:40:48.250] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62369, l='ServerLevel[world]', x=1213.77, y=70.00, z=-1078.87]
+[03May2025 08:40:48.251] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:40:48.251] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62372, l='ServerLevel[world]', x=1212.97, y=70.00, z=-1078.17]
+[03May2025 08:40:48.251] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:40:48.251] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62371, l='ServerLevel[world]', x=1212.56, y=70.05, z=-1079.43]
+[03May2025 08:40:48.251] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:40:48.251] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62369, l='ServerLevel[world]', x=1213.77, y=70.00, z=-1078.87]
+[03May2025 08:40:48.582] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 08:40:48.597] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 08:40:49.261] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:40:49.262] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62372, l='ServerLevel[world]', x=1212.30, y=70.97, z=-1078.27]
+[03May2025 08:40:49.262] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:40:49.262] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62371, l='ServerLevel[world]', x=1211.47, y=69.00, z=-1079.43]
+[03May2025 08:40:49.262] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:40:49.262] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62369, l='ServerLevel[world]', x=1211.91, y=69.00, z=-1078.83]
+[03May2025 08:40:49.262] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:40:49.262] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62372, l='ServerLevel[world]', x=1212.30, y=70.97, z=-1078.27]
+[03May2025 08:40:49.262] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:40:49.262] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62371, l='ServerLevel[world]', x=1211.47, y=69.00, z=-1079.43]
+[03May2025 08:40:49.262] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:40:49.262] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62369, l='ServerLevel[world]', x=1211.91, y=69.00, z=-1078.83]
+[03May2025 08:40:50.251] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:40:50.251] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62372, l='ServerLevel[world]', x=1211.89, y=69.46, z=-1078.52]
+[03May2025 08:40:50.252] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:40:50.252] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62371, l='ServerLevel[world]', x=1208.89, y=69.00, z=-1079.07]
+[03May2025 08:40:50.252] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:40:50.252] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62369, l='ServerLevel[world]', x=1210.29, y=69.13, z=-1078.30]
+[03May2025 08:40:50.252] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:40:50.252] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Husk['Darshwen the Ogre Slayer'/62370, l='ServerLevel[world]', x=1212.43, y=69.00, z=-1079.49]
+[03May2025 08:40:50.252] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:40:50.252] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62372, l='ServerLevel[world]', x=1211.89, y=69.46, z=-1078.52]
+[03May2025 08:40:50.252] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:40:50.252] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62371, l='ServerLevel[world]', x=1208.89, y=69.00, z=-1079.07]
+[03May2025 08:40:50.252] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:40:50.252] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62369, l='ServerLevel[world]', x=1210.29, y=69.13, z=-1078.30]
+[03May2025 08:40:50.252] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:40:50.252] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Husk['Darshwen the Ogre Slayer'/62370, l='ServerLevel[world]', x=1212.43, y=69.00, z=-1079.49]
+[03May2025 08:40:51.248] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:40:51.248] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62372, l='ServerLevel[world]', x=1211.31, y=69.46, z=-1078.46]
+[03May2025 08:40:51.248] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:40:51.248] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62371, l='ServerLevel[world]', x=1208.52, y=68.54, z=-1078.53]
+[03May2025 08:40:51.248] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:40:51.248] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62369, l='ServerLevel[world]', x=1210.66, y=68.65, z=-1078.36]
+[03May2025 08:40:51.248] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:40:51.248] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Husk['Darshwen the Ogre Slayer'/62370, l='ServerLevel[world]', x=1211.77, y=69.00, z=-1079.47]
+[03May2025 08:40:51.248] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:40:51.248] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62372, l='ServerLevel[world]', x=1211.31, y=69.46, z=-1078.46]
+[03May2025 08:40:51.248] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:40:51.248] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62371, l='ServerLevel[world]', x=1208.52, y=68.54, z=-1078.53]
+[03May2025 08:40:51.248] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:40:51.248] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62369, l='ServerLevel[world]', x=1210.66, y=68.65, z=-1078.36]
+[03May2025 08:40:51.248] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:40:51.248] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Husk['Darshwen the Ogre Slayer'/62370, l='ServerLevel[world]', x=1211.77, y=69.00, z=-1079.47]
+[03May2025 08:40:52.246] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:40:52.247] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62371, l='ServerLevel[world]', x=1207.84, y=70.41, z=-1076.69]
+[03May2025 08:40:52.247] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:40:52.247] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62371, l='ServerLevel[world]', x=1207.84, y=70.41, z=-1076.69]
+[03May2025 08:40:55.247] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:40:55.247] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: EntityFly['Fly'/62353, l='ServerLevel[world]', x=1209.86, y=70.47, z=-1068.11]
+[03May2025 08:40:55.247] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:40:55.247] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: EntityFly['Fly'/62353, l='ServerLevel[world]', x=1209.86, y=70.47, z=-1068.11]
+[03May2025 08:40:56.247] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:40:56.248] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62369, l='ServerLevel[world]', x=1208.79, y=68.65, z=-1074.56]
+[03May2025 08:40:56.248] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:40:56.248] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: EntityFly['Fly'/62353, l='ServerLevel[world]', x=1209.62, y=71.35, z=-1070.29]
+[03May2025 08:40:56.248] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:40:56.248] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62369, l='ServerLevel[world]', x=1208.79, y=68.65, z=-1074.56]
+[03May2025 08:40:56.248] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:40:56.248] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: EntityFly['Fly'/62353, l='ServerLevel[world]', x=1209.62, y=71.35, z=-1070.29]
+[03May2025 08:40:57.246] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:40:57.246] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62369, l='ServerLevel[world]', x=1208.14, y=68.00, z=-1072.64]
+[03May2025 08:40:57.246] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:40:57.246] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Husk['Darshwen the Ogre Slayer'/62370, l='ServerLevel[world]', x=1208.29, y=68.00, z=-1073.28]
+[03May2025 08:40:57.246] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:40:57.246] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: EntityFly['Fly'/62353, l='ServerLevel[world]', x=1210.15, y=69.42, z=-1072.57]
+[03May2025 08:40:57.246] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:40:57.246] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62372, l='ServerLevel[world]', x=1207.56, y=68.00, z=-1071.38]
+[03May2025 08:40:57.246] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:40:57.246] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62369, l='ServerLevel[world]', x=1208.14, y=68.00, z=-1072.64]
+[03May2025 08:40:57.246] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:40:57.246] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Husk['Darshwen the Ogre Slayer'/62370, l='ServerLevel[world]', x=1208.29, y=68.00, z=-1073.28]
+[03May2025 08:40:57.246] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:40:57.246] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: EntityFly['Fly'/62353, l='ServerLevel[world]', x=1210.15, y=69.42, z=-1072.57]
+[03May2025 08:40:57.246] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:40:57.246] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62372, l='ServerLevel[world]', x=1207.56, y=68.00, z=-1071.38]
+[03May2025 08:41:03.250] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:03.250] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62372, l='ServerLevel[world]', x=1196.90, y=69.15, z=-1071.70]
+[03May2025 08:41:03.250] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:03.250] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62372, l='ServerLevel[world]', x=1196.90, y=69.15, z=-1071.70]
+[03May2025 08:41:04.246] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:04.246] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62372, l='ServerLevel[world]', x=1195.01, y=69.74, z=-1070.31]
+[03May2025 08:41:04.247] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:04.247] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62372, l='ServerLevel[world]', x=1195.01, y=69.74, z=-1070.31]
+[03May2025 08:41:05.249] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:05.250] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62372, l='ServerLevel[world]', x=1194.40, y=67.00, z=-1070.30]
+[03May2025 08:41:05.250] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:05.250] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62372, l='ServerLevel[world]', x=1194.40, y=67.00, z=-1070.30]
+[03May2025 08:41:06.246] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:06.246] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62372, l='ServerLevel[world]', x=1194.40, y=67.00, z=-1070.30]
+[03May2025 08:41:06.246] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:06.247] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62372, l='ServerLevel[world]', x=1194.40, y=67.00, z=-1070.30]
+[03May2025 08:41:07.254] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:07.254] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62372, l='ServerLevel[world]', x=1193.53, y=67.00, z=-1069.61]
+[03May2025 08:41:07.254] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:07.254] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62371, l='ServerLevel[world]', x=1194.45, y=69.41, z=-1070.39]
+[03May2025 08:41:07.254] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:07.254] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62369, l='ServerLevel[world]', x=1194.08, y=68.68, z=-1069.86]
+[03May2025 08:41:07.254] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:07.254] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62372, l='ServerLevel[world]', x=1193.53, y=67.00, z=-1069.61]
+[03May2025 08:41:07.254] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:07.254] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62371, l='ServerLevel[world]', x=1194.45, y=69.41, z=-1070.39]
+[03May2025 08:41:07.254] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:07.254] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62369, l='ServerLevel[world]', x=1194.08, y=68.68, z=-1069.86]
+[03May2025 08:41:08.245] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:08.245] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62372, l='ServerLevel[world]', x=1192.95, y=70.74, z=-1069.03]
+[03May2025 08:41:08.245] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:08.245] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62371, l='ServerLevel[world]', x=1193.28, y=69.68, z=-1069.75]
+[03May2025 08:41:08.245] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:08.245] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62369, l='ServerLevel[world]', x=1193.26, y=67.36, z=-1068.41]
+[03May2025 08:41:08.246] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:08.246] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62372, l='ServerLevel[world]', x=1192.95, y=70.74, z=-1069.03]
+[03May2025 08:41:08.246] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:08.246] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62371, l='ServerLevel[world]', x=1193.28, y=69.68, z=-1069.75]
+[03May2025 08:41:08.246] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:08.246] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62369, l='ServerLevel[world]', x=1193.26, y=67.36, z=-1068.41]
+[03May2025 08:41:09.260] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:09.260] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62372, l='ServerLevel[world]', x=1192.09, y=68.00, z=-1068.18]
+[03May2025 08:41:09.260] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:09.260] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62371, l='ServerLevel[world]', x=1192.38, y=67.00, z=-1068.80]
+[03May2025 08:41:09.260] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:09.260] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62372, l='ServerLevel[world]', x=1192.09, y=68.00, z=-1068.18]
+[03May2025 08:41:09.260] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:09.260] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62371, l='ServerLevel[world]', x=1192.38, y=67.00, z=-1068.80]
+[03May2025 08:41:10.248] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:10.248] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62372, l='ServerLevel[world]', x=1189.87, y=70.15, z=-1067.80]
+[03May2025 08:41:10.248] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:10.248] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62371, l='ServerLevel[world]', x=1190.22, y=69.71, z=-1068.74]
+[03May2025 08:41:10.249] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:10.249] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62372, l='ServerLevel[world]', x=1189.87, y=70.15, z=-1067.80]
+[03May2025 08:41:10.249] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:10.249] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62371, l='ServerLevel[world]', x=1190.22, y=69.71, z=-1068.74]
+[03May2025 08:41:11.251] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:11.251] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62372, l='ServerLevel[world]', x=1189.40, y=68.00, z=-1067.54]
+[03May2025 08:41:11.251] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:11.251] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62371, l='ServerLevel[world]', x=1190.01, y=67.00, z=-1068.87]
+[03May2025 08:41:11.251] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:11.251] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62369, l='ServerLevel[world]', x=1192.68, y=67.65, z=-1068.51]
+[03May2025 08:41:11.252] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:11.252] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62372, l='ServerLevel[world]', x=1189.40, y=68.00, z=-1067.54]
+[03May2025 08:41:11.252] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:11.252] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62371, l='ServerLevel[world]', x=1190.01, y=67.00, z=-1068.87]
+[03May2025 08:41:11.252] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:11.252] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62369, l='ServerLevel[world]', x=1192.68, y=67.65, z=-1068.51]
+[03May2025 08:41:23.249] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:23.249] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: CorpseFishEntity['Corpse Fish'/62410, l='ServerLevel[world]', x=1213.43, y=58.16, z=-1115.26]
+[03May2025 08:41:23.249] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:23.249] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: CorpseFishEntity['Corpse Fish'/62410, l='ServerLevel[world]', x=1213.43, y=58.16, z=-1115.26]
+[03May2025 08:41:24.247] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:24.247] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: CorpseFishEntity['Corpse Fish'/62410, l='ServerLevel[world]', x=1212.64, y=59.25, z=-1114.72]
+[03May2025 08:41:24.248] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:24.248] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: CorpseFishEntity['Corpse Fish'/62410, l='ServerLevel[world]', x=1212.64, y=59.25, z=-1114.72]
+[03May2025 08:41:25.257] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:25.257] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: CorpseFishEntity['Corpse Fish'/62410, l='ServerLevel[world]', x=1211.28, y=59.66, z=-1114.95]
+[03May2025 08:41:25.257] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:25.258] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: CorpseFishEntity['Corpse Fish'/62410, l='ServerLevel[world]', x=1211.28, y=59.66, z=-1114.95]
+[03May2025 08:41:26.249] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:26.249] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: CorpseFishEntity['Corpse Fish'/62410, l='ServerLevel[world]', x=1211.17, y=59.76, z=-1115.04]
+[03May2025 08:41:26.250] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:26.250] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: CorpseFishEntity['Corpse Fish'/62410, l='ServerLevel[world]', x=1211.17, y=59.76, z=-1115.04]
+[03May2025 08:41:27.247] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:27.247] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: CorpseFishEntity['Corpse Fish'/62410, l='ServerLevel[world]', x=1210.90, y=60.12, z=-1115.12]
+[03May2025 08:41:27.247] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:27.247] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: CorpseFishEntity['Corpse Fish'/62410, l='ServerLevel[world]', x=1210.90, y=60.12, z=-1115.12]
+[03May2025 08:41:28.250] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:28.250] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: CorpseFishEntity['Corpse Fish'/62410, l='ServerLevel[world]', x=1209.86, y=60.54, z=-1115.92]
+[03May2025 08:41:28.251] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:28.251] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: CorpseFishEntity['Corpse Fish'/62410, l='ServerLevel[world]', x=1209.86, y=60.54, z=-1115.92]
+[03May2025 08:41:29.244] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:29.244] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: CorpseFishEntity['Corpse Fish'/62410, l='ServerLevel[world]', x=1208.49, y=60.86, z=-1116.40]
+[03May2025 08:41:29.244] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:29.244] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62369, l='ServerLevel[world]', x=1209.58, y=59.97, z=-1112.41]
+[03May2025 08:41:29.244] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:29.245] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Squid['Squid'/62412, l='ServerLevel[world]', x=1207.13, y=60.62, z=-1118.80]
+[03May2025 08:41:29.245] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:29.245] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: CorpseFishEntity['Corpse Fish'/62410, l='ServerLevel[world]', x=1208.49, y=60.86, z=-1116.40]
+[03May2025 08:41:29.245] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:29.245] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62369, l='ServerLevel[world]', x=1209.58, y=59.97, z=-1112.41]
+[03May2025 08:41:29.245] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:29.245] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Squid['Squid'/62412, l='ServerLevel[world]', x=1207.13, y=60.62, z=-1118.80]
+[03May2025 08:41:30.249] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:30.249] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: CorpseFishEntity['Corpse Fish'/62410, l='ServerLevel[world]', x=1207.67, y=61.14, z=-1115.45]
+[03May2025 08:41:30.249] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:30.249] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62371, l='ServerLevel[world]', x=1210.01, y=60.00, z=-1111.95]
+[03May2025 08:41:30.249] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:30.249] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62369, l='ServerLevel[world]', x=1209.27, y=59.52, z=-1112.73]
+[03May2025 08:41:30.249] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:30.249] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: CorpseFishEntity['Corpse Fish'/62410, l='ServerLevel[world]', x=1207.67, y=61.14, z=-1115.45]
+[03May2025 08:41:30.249] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:30.249] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62371, l='ServerLevel[world]', x=1210.01, y=60.00, z=-1111.95]
+[03May2025 08:41:30.249] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:30.250] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62369, l='ServerLevel[world]', x=1209.27, y=59.52, z=-1112.73]
+[03May2025 08:41:31.245] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:31.245] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: CorpseFishEntity['Corpse Fish'/62410, l='ServerLevel[world]', x=1206.62, y=61.43, z=-1114.31]
+[03May2025 08:41:31.245] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:31.245] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62371, l='ServerLevel[world]', x=1209.67, y=60.00, z=-1112.01]
+[03May2025 08:41:31.245] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:31.245] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62369, l='ServerLevel[world]', x=1209.21, y=59.02, z=-1112.74]
+[03May2025 08:41:31.246] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:31.246] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: CorpseFishEntity['Corpse Fish'/62410, l='ServerLevel[world]', x=1206.62, y=61.43, z=-1114.31]
+[03May2025 08:41:31.246] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:31.246] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62371, l='ServerLevel[world]', x=1209.67, y=60.00, z=-1112.01]
+[03May2025 08:41:31.246] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:31.246] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62369, l='ServerLevel[world]', x=1209.21, y=59.02, z=-1112.74]
+[03May2025 08:41:32.250] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:32.250] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: CorpseFishEntity['Corpse Fish'/62410, l='ServerLevel[world]', x=1205.83, y=61.47, z=-1112.55]
+[03May2025 08:41:32.250] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:32.250] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: CorpseFishEntity['Corpse Fish'/62410, l='ServerLevel[world]', x=1205.83, y=61.47, z=-1112.55]
+[03May2025 08:41:33.247] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:33.247] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: CorpseFishEntity['Corpse Fish'/62410, l='ServerLevel[world]', x=1204.97, y=61.62, z=-1110.58]
+[03May2025 08:41:33.247] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:33.247] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: CorpseFishEntity['Corpse Fish'/62410, l='ServerLevel[world]', x=1204.97, y=61.62, z=-1110.58]
+[03May2025 08:41:34.250] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:34.251] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: CorpseFishEntity['Corpse Fish'/62410, l='ServerLevel[world]', x=1203.71, y=61.75, z=-1109.45]
+[03May2025 08:41:34.251] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:34.251] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62372, l='ServerLevel[world]', x=1207.77, y=61.00, z=-1109.46]
+[03May2025 08:41:34.251] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:34.251] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: CorpseFishEntity['Corpse Fish'/62410, l='ServerLevel[world]', x=1203.71, y=61.75, z=-1109.45]
+[03May2025 08:41:34.251] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:34.251] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62372, l='ServerLevel[world]', x=1207.77, y=61.00, z=-1109.46]
+[03May2025 08:41:35.250] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:35.250] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: CorpseFishEntity['Corpse Fish'/62410, l='ServerLevel[world]', x=1203.85, y=61.87, z=-1109.45]
+[03May2025 08:41:35.250] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:35.250] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62372, l='ServerLevel[world]', x=1206.49, y=63.63, z=-1106.93]
+[03May2025 08:41:35.250] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:35.250] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: CorpseFishEntity['Corpse Fish'/62410, l='ServerLevel[world]', x=1203.85, y=61.87, z=-1109.45]
+[03May2025 08:41:35.250] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:35.250] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62372, l='ServerLevel[world]', x=1206.49, y=63.63, z=-1106.93]
+[03May2025 08:41:36.249] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:36.249] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: CorpseFishEntity['Corpse Fish'/62410, l='ServerLevel[world]', x=1204.34, y=61.98, z=-1109.45]
+[03May2025 08:41:36.249] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:36.249] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62372, l='ServerLevel[world]', x=1204.34, y=63.39, z=-1106.30]
+[03May2025 08:41:36.250] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:36.250] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: CorpseFishEntity['Corpse Fish'/62410, l='ServerLevel[world]', x=1204.34, y=61.98, z=-1109.45]
+[03May2025 08:41:36.250] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:36.250] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62372, l='ServerLevel[world]', x=1204.34, y=63.39, z=-1106.30]
+[03May2025 08:41:37.252] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:37.252] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: CorpseFishEntity['Corpse Fish'/62410, l='ServerLevel[world]', x=1203.66, y=62.08, z=-1109.00]
+[03May2025 08:41:37.252] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:37.252] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62373, l='ServerLevel[world]', x=1202.73, y=64.00, z=-1104.40]
+[03May2025 08:41:37.252] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:37.252] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62372, l='ServerLevel[world]', x=1201.35, y=65.74, z=-1105.99]
+[03May2025 08:41:37.252] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:37.252] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: CorpseFishEntity['Corpse Fish'/62410, l='ServerLevel[world]', x=1203.66, y=62.08, z=-1109.00]
+[03May2025 08:41:37.252] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:37.252] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62373, l='ServerLevel[world]', x=1202.73, y=64.00, z=-1104.40]
+[03May2025 08:41:37.252] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:37.252] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62372, l='ServerLevel[world]', x=1201.35, y=65.74, z=-1105.99]
+[03May2025 08:41:38.246] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:38.246] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62372, l='ServerLevel[world]', x=1199.07, y=61.94, z=-1106.62]
+[03May2025 08:41:38.246] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:38.246] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: CorpseFishEntity['Corpse Fish'/62410, l='ServerLevel[world]', x=1202.19, y=62.17, z=-1107.93]
+[03May2025 08:41:38.246] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:38.246] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62373, l='ServerLevel[world]', x=1200.53, y=63.78, z=-1106.09]
+[03May2025 08:41:38.247] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:38.247] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62372, l='ServerLevel[world]', x=1199.07, y=61.94, z=-1106.62]
+[03May2025 08:41:38.247] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:38.247] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: CorpseFishEntity['Corpse Fish'/62410, l='ServerLevel[world]', x=1202.19, y=62.17, z=-1107.93]
+[03May2025 08:41:38.247] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:38.247] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62373, l='ServerLevel[world]', x=1200.53, y=63.78, z=-1106.09]
+[03May2025 08:41:39.250] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:39.250] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62372, l='ServerLevel[world]', x=1198.78, y=61.47, z=-1106.78]
+[03May2025 08:41:39.250] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:39.250] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62373, l='ServerLevel[world]', x=1199.18, y=64.13, z=-1105.30]
+[03May2025 08:41:39.250] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:39.250] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: CorpseFishEntity['Corpse Fish'/62410, l='ServerLevel[world]', x=1200.61, y=62.24, z=-1106.71]
+[03May2025 08:41:39.250] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:39.250] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62372, l='ServerLevel[world]', x=1198.78, y=61.47, z=-1106.78]
+[03May2025 08:41:39.250] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:39.250] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62373, l='ServerLevel[world]', x=1199.18, y=64.13, z=-1105.30]
+[03May2025 08:41:39.250] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:39.250] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: CorpseFishEntity['Corpse Fish'/62410, l='ServerLevel[world]', x=1200.61, y=62.24, z=-1106.71]
+[03May2025 08:41:40.260] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:40.260] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62372, l='ServerLevel[world]', x=1198.78, y=61.00, z=-1106.78]
+[03May2025 08:41:40.260] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:40.260] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: CorpseFishEntity['Corpse Fish'/62410, l='ServerLevel[world]', x=1199.08, y=62.31, z=-1105.76]
+[03May2025 08:41:40.260] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:40.260] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: SuckerEntity['Sucker'/64349, l='ServerLevel[world]', x=1198.86, y=64.44, z=-1105.92]
+[03May2025 08:41:40.260] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:40.260] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62373, l='ServerLevel[world]', x=1200.28, y=62.65, z=-1105.05]
+[03May2025 08:41:40.261] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:40.261] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62372, l='ServerLevel[world]', x=1198.78, y=61.00, z=-1106.78]
+[03May2025 08:41:40.261] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:40.261] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: CorpseFishEntity['Corpse Fish'/62410, l='ServerLevel[world]', x=1199.08, y=62.31, z=-1105.76]
+[03May2025 08:41:40.261] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:40.261] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: SuckerEntity['Sucker'/64349, l='ServerLevel[world]', x=1198.86, y=64.44, z=-1105.92]
+[03May2025 08:41:40.261] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:40.261] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62373, l='ServerLevel[world]', x=1200.28, y=62.65, z=-1105.05]
+[03May2025 08:41:41.264] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:41.264] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62372, l='ServerLevel[world]', x=1196.37, y=61.02, z=-1106.09]
+[03May2025 08:41:41.264] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:41.264] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62373, l='ServerLevel[world]', x=1197.27, y=61.96, z=-1104.96]
+[03May2025 08:41:41.264] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:41.264] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: BigsuckerEntity['The Bigger Suck'/64342, l='ServerLevel[world]', x=1196.17, y=64.43, z=-1105.19]
+[03May2025 08:41:41.264] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:41.264] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: SuckerEntity['Sucker'/64345, l='ServerLevel[world]', x=1197.86, y=66.26, z=-1105.95]
+[03May2025 08:41:41.264] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:41.264] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: SuckerEntity['Sucker'/64347, l='ServerLevel[world]', x=1197.95, y=64.41, z=-1105.64]
+[03May2025 08:41:41.264] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:41.264] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: SuckerEntity['Sucker'/64349, l='ServerLevel[world]', x=1195.48, y=64.42, z=-1104.22]
+[03May2025 08:41:41.265] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:41.265] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62372, l='ServerLevel[world]', x=1196.37, y=61.02, z=-1106.09]
+[03May2025 08:41:41.265] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:41.265] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/62373, l='ServerLevel[world]', x=1197.27, y=61.96, z=-1104.96]
+[03May2025 08:41:41.265] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:41.265] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: BigsuckerEntity['The Bigger Suck'/64342, l='ServerLevel[world]', x=1196.17, y=64.43, z=-1105.19]
+[03May2025 08:41:41.265] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:41.265] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: SuckerEntity['Sucker'/64345, l='ServerLevel[world]', x=1197.86, y=66.26, z=-1105.95]
+[03May2025 08:41:41.265] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:41.265] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: SuckerEntity['Sucker'/64347, l='ServerLevel[world]', x=1197.95, y=64.41, z=-1105.64]
+[03May2025 08:41:41.265] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:41.265] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: SuckerEntity['Sucker'/64349, l='ServerLevel[world]', x=1195.48, y=64.42, z=-1104.22]
+[03May2025 08:41:42.253] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:42.253] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: SuckerEntity['Sucker'/64348, l='ServerLevel[world]', x=1193.88, y=64.95, z=-1104.19]
+[03May2025 08:41:42.253] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:42.253] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: BigsuckerEntity['The Bigger Suck'/64342, l='ServerLevel[world]', x=1191.64, y=64.40, z=-1102.43]
+[03May2025 08:41:42.253] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:42.253] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: SuckerEntity['Sucker'/64347, l='ServerLevel[world]', x=1192.78, y=64.39, z=-1103.48]
+[03May2025 08:41:42.253] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:42.253] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: SuckerEntity['Sucker'/64345, l='ServerLevel[world]', x=1192.87, y=66.17, z=-1103.61]
+[03May2025 08:41:42.253] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:42.253] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: SuckerEntity['Sucker'/64348, l='ServerLevel[world]', x=1193.88, y=64.95, z=-1104.19]
+[03May2025 08:41:42.253] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:42.253] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: BigsuckerEntity['The Bigger Suck'/64342, l='ServerLevel[world]', x=1191.64, y=64.40, z=-1102.43]
+[03May2025 08:41:42.253] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:42.253] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: SuckerEntity['Sucker'/64347, l='ServerLevel[world]', x=1192.78, y=64.39, z=-1103.48]
+[03May2025 08:41:42.253] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:42.253] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: SuckerEntity['Sucker'/64345, l='ServerLevel[world]', x=1192.87, y=66.17, z=-1103.61]
+[03May2025 08:41:43.247] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:43.247] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: BigsuckerEntity['The Bigger Suck'/64342, l='ServerLevel[world]', x=1187.26, y=64.34, z=-1101.12]
+[03May2025 08:41:43.247] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:43.247] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: SuckerEntity['Sucker'/64347, l='ServerLevel[world]', x=1188.52, y=64.35, z=-1100.56]
+[03May2025 08:41:43.247] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:43.247] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: SuckerEntity['Sucker'/64345, l='ServerLevel[world]', x=1188.63, y=66.07, z=-1100.67]
+[03May2025 08:41:43.247] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:43.247] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: SuckerEntity['Sucker'/64348, l='ServerLevel[world]', x=1189.40, y=64.85, z=-1101.42]
+[03May2025 08:41:43.248] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:43.248] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: BigsuckerEntity['The Bigger Suck'/64342, l='ServerLevel[world]', x=1187.26, y=64.34, z=-1101.12]
+[03May2025 08:41:43.248] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:43.248] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: SuckerEntity['Sucker'/64347, l='ServerLevel[world]', x=1188.52, y=64.35, z=-1100.56]
+[03May2025 08:41:43.248] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:43.248] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: SuckerEntity['Sucker'/64345, l='ServerLevel[world]', x=1188.63, y=66.07, z=-1100.67]
+[03May2025 08:41:43.248] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:41:43.248] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: SuckerEntity['Sucker'/64348, l='ServerLevel[world]', x=1189.40, y=64.85, z=-1101.42]
+[03May2025 08:41:43.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was slain by Sucker
+[03May2025 08:41:45.219] [Server thread/DEBUG] [twilightforest/]: Player Emilianano (fcd18d43-9ceb-3769-a5df-b51fa37b6d2a) respawned and received items held in storage
+[03May2025 08:41:56.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was slain by Sucker
+[03May2025 08:41:57.421] [Server thread/DEBUG] [twilightforest/]: Player Emilianano (fcd18d43-9ceb-3769-a5df-b51fa37b6d2a) respawned and received items held in storage
+[03May2025 08:42:09.998] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/core_id
+[03May2025 08:42:09.999] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/core_id
+[03May2025 08:42:09.999] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/physical_package_id
+[03May2025 08:42:09.999] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/physical_package_id
+[03May2025 08:42:09.999] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cpu_capacity
+[03May2025 08:42:09.999] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/core_id
+[03May2025 08:42:09.999] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/core_id
+[03May2025 08:42:09.999] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/physical_package_id
+[03May2025 08:42:09.999] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/physical_package_id
+[03May2025 08:42:09.999] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cpu_capacity
+[03May2025 08:42:10.000] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/topology/core_id
+[03May2025 08:42:10.000] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/topology/core_id
+[03May2025 08:42:10.000] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/topology/physical_package_id
+[03May2025 08:42:10.000] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/topology/physical_package_id
+[03May2025 08:42:10.000] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cpu_capacity
+[03May2025 08:42:10.000] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/topology/core_id
+[03May2025 08:42:10.000] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/topology/core_id
+[03May2025 08:42:10.000] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/topology/physical_package_id
+[03May2025 08:42:10.000] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/topology/physical_package_id
+[03May2025 08:42:10.000] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cpu_capacity
+[03May2025 08:42:10.000] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/cpuinfo
+[03May2025 08:42:10.008] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/self/auxv
+[03May2025 08:42:10.009] [Server thread/DEBUG] [oshi.util.FileUtil/]: No oshi.architecture.properties file found from ClassLoader cpw.mods.modlauncher.TransformingClassLoader@23444a36
+[03May2025 08:42:10.009] [Server thread/DEBUG] [oshi.util.FileUtil/]: No oshi.architecture.properties file found from ClassLoader jdk.internal.loader.ClassLoaders$AppClassLoader@76ed5528
+[03May2025 08:42:10.018] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/meminfo
+[03May2025 08:42:10.018] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/meminfo
+[03May2025 08:42:10.023] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Exception loading entity: 
+net.minecraft.ReportedException: Loading entity NBT
+	at net.minecraft.world.entity.Entity.m_20258_(Entity.java:1765) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	at net.minecraft.world.entity.EntityType.m_185988_(EntityType.java:532) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	at net.minecraft.Util.m_137521_(Util.java:419) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	at net.minecraft.world.entity.EntityType.m_20642_(EntityType.java:529) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	at net.minecraft.world.entity.EntityType.m_20669_(EntityType.java:607) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	at net.minecraft.world.entity.EntityType.m_20645_(EntityType.java:563) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	at net.minecraft.world.entity.EntityType$1.m_147056_(EntityType.java:584) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	at java.util.Spliterators$IteratorSpliterator.tryAdvance(Spliterators.java:1856) ~[?:?]
+	at net.minecraft.world.entity.EntityType$1.tryAdvance(EntityType.java:583) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	at java.util.Spliterator.forEachRemaining(Spliterator.java:332) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:921) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:682) ~[?:?]
+	at net.minecraft.world.level.chunk.storage.EntityStorage.m_223456_(EntityStorage.java:62) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:646) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18759_(ProcessorMailbox.java:91) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18747_(ProcessorMailbox.java:146) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.run(ProcessorMailbox.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IllegalStateException: Entity has invalid position
+	at net.minecraft.world.entity.Entity.m_20258_(Entity.java:1759) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
+	... 33 more
+[03May2025 08:42:48.447] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:42:48.447] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: CorpseFishEntity['Corpse Fish'/65610, l='ServerLevel[world]', x=1150.87, y=57.33, z=-1104.01]
+[03May2025 08:42:48.448] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:42:48.448] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: CorpseFishEntity['Corpse Fish'/65610, l='ServerLevel[world]', x=1150.87, y=57.33, z=-1104.01]
+[03May2025 08:43:00.453] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:43:00.453] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Chicken['Chicken'/65594, l='ServerLevel[world]', x=1140.25, y=72.00, z=-1147.24]
+[03May2025 08:43:00.453] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:43:00.453] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Chicken['Chicken'/65594, l='ServerLevel[world]', x=1140.25, y=72.00, z=-1147.24]
+[03May2025 08:43:39.442] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:43:39.442] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ThespitterEntity['The Spitter'/66941, l='ServerLevel[world]', x=1101.50, y=67.00, z=-1215.64]
+[03May2025 08:43:39.443] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:43:39.443] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ThespitterEntity['The Spitter'/66941, l='ServerLevel[world]', x=1101.50, y=67.00, z=-1215.64]
+[03May2025 08:43:40.445] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:43:40.445] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ThespitterEntity['The Spitter'/66941, l='ServerLevel[world]', x=1101.50, y=68.00, z=-1216.20]
+[03May2025 08:43:40.445] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:43:40.445] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ThespitterEntity['The Spitter'/66941, l='ServerLevel[world]', x=1101.50, y=68.00, z=-1216.20]
+[03May2025 08:43:40.548] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 08:43:41.447] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:43:41.447] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ThespitterEntity['The Spitter'/66941, l='ServerLevel[world]', x=1101.50, y=69.00, z=-1217.03]
+[03May2025 08:43:41.448] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:43:41.448] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ThespitterEntity['The Spitter'/66941, l='ServerLevel[world]', x=1101.50, y=69.00, z=-1217.03]
+[03May2025 08:43:43.453] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:43:43.453] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheheavyEntity['The Heavy'/66880, l='ServerLevel[world]', x=1091.12, y=71.00, z=-1212.56]
+[03May2025 08:43:43.454] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:43:43.454] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheheavyEntity['The Heavy'/66880, l='ServerLevel[world]', x=1091.12, y=71.00, z=-1212.56]
+[03May2025 08:43:53.640] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 08:43:54.443] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:43:54.443] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ThespitterEntity['The Spitter'/66941, l='ServerLevel[world]', x=1097.85, y=68.00, z=-1185.70]
+[03May2025 08:43:54.443] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:43:54.444] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ThespitterEntity['The Spitter'/66941, l='ServerLevel[world]', x=1097.85, y=68.00, z=-1185.70]
+[03May2025 08:44:07.237] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 08:44:08.437] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 08:44:10.260] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 08:44:12.638] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 08:44:13.738] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 08:44:14.449] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:44:14.449] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: SprinterEntity['Sprinter'/67342, l='ServerLevel[world]', x=1052.50, y=73.00, z=-1215.65]
+[03May2025 08:44:14.449] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:44:14.449] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: SprinterEntity['Sprinter'/67342, l='ServerLevel[world]', x=1052.50, y=73.00, z=-1215.65]
+[03May2025 08:44:20.187] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 08:44:26.934] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 08:44:28.535] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 08:45:21.033] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 08:45:21.136] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 08:45:21.241] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 08:45:21.336] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 08:45:21.439] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 08:45:21.537] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 08:45:21.640] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 08:45:21.742] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 08:45:21.840] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 08:45:21.938] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 08:45:22.039] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 08:45:39.434] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 08:45:41.033] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 08:45:41.633] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 08:45:43.437] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 08:45:48.593] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 08:45:48.609] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 08:46:07.699] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 08:46:08.405] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 08:46:09.110] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 08:46:16.452] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:46:16.452] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: EntityJerboa['Jerboa'/67530, l='ServerLevel[world]', x=947.47, y=69.46, z=-1296.06]
+[03May2025 08:46:16.453] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:46:16.453] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: EntityJerboa['Jerboa'/67530, l='ServerLevel[world]', x=947.47, y=69.46, z=-1296.06]
+[03May2025 08:46:28.450] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:46:28.450] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: EntityRattlesnake['Rattlesnake'/67275, l='ServerLevel[world]', x=886.64, y=68.00, z=-1262.29]
+[03May2025 08:46:28.450] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:46:28.450] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: EntityRattlesnake['Rattlesnake'/67275, l='ServerLevel[world]', x=886.64, y=68.00, z=-1262.29]
+[03May2025 08:46:30.489] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 08:46:36.449] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:46:36.449] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: IronGolem['Iron Golem'/67383, l='ServerLevel[world]', x=852.70, y=69.00, z=-1224.70]
+[03May2025 08:46:36.449] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:46:36.450] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: IronGolem['Iron Golem'/67383, l='ServerLevel[world]', x=852.70, y=69.00, z=-1224.70]
+[03May2025 08:46:37.464] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:46:37.464] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: IronGolem['Iron Golem'/67383, l='ServerLevel[world]', x=852.70, y=69.00, z=-1224.70]
+[03May2025 08:46:37.465] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:46:37.465] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: IronGolem['Iron Golem'/67383, l='ServerLevel[world]', x=852.70, y=69.00, z=-1224.70]
+[03May2025 08:46:38.450] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:46:38.450] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: IronGolem['Iron Golem'/67383, l='ServerLevel[world]', x=852.70, y=69.00, z=-1224.70]
+[03May2025 08:46:38.450] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:46:38.450] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Pillager['Pillager'/69614, l='ServerLevel[world]', x=852.51, y=69.00, z=-1227.49]
+[03May2025 08:46:38.451] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:46:38.451] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: IronGolem['Iron Golem'/67383, l='ServerLevel[world]', x=852.70, y=69.00, z=-1224.70]
+[03May2025 08:46:38.451] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:46:38.451] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Pillager['Pillager'/69614, l='ServerLevel[world]', x=852.51, y=69.00, z=-1227.49]
+[03May2025 08:46:39.451] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:46:39.451] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: IronGolem['Iron Golem'/67383, l='ServerLevel[world]', x=852.70, y=69.00, z=-1224.70]
+[03May2025 08:46:39.451] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:46:39.451] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Pillager['Pillager'/69614, l='ServerLevel[world]', x=851.34, y=69.00, z=-1227.84]
+[03May2025 08:46:39.451] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:46:39.451] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/68463, l='ServerLevel[world]', x=849.39, y=69.00, z=-1226.48]
+[03May2025 08:46:39.452] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:46:39.452] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: IronGolem['Iron Golem'/67383, l='ServerLevel[world]', x=852.70, y=69.00, z=-1224.70]
+[03May2025 08:46:39.452] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:46:39.452] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Pillager['Pillager'/69614, l='ServerLevel[world]', x=851.34, y=69.00, z=-1227.84]
+[03May2025 08:46:39.452] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:46:39.452] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/68463, l='ServerLevel[world]', x=849.39, y=69.00, z=-1226.48]
+[03May2025 08:46:40.449] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:46:40.449] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: IronGolem['Iron Golem'/67383, l='ServerLevel[world]', x=852.70, y=69.00, z=-1224.70]
+[03May2025 08:46:40.449] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:46:40.449] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Pillager['Pillager'/69614, l='ServerLevel[world]', x=851.30, y=69.00, z=-1227.84]
+[03May2025 08:46:40.449] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:46:40.449] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/68463, l='ServerLevel[world]', x=849.43, y=69.00, z=-1225.56]
+[03May2025 08:46:40.450] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:46:40.450] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: IronGolem['Iron Golem'/67383, l='ServerLevel[world]', x=852.70, y=69.00, z=-1224.70]
+[03May2025 08:46:40.450] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:46:40.450] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Pillager['Pillager'/69614, l='ServerLevel[world]', x=851.30, y=69.00, z=-1227.84]
+[03May2025 08:46:40.450] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:46:40.450] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/68463, l='ServerLevel[world]', x=849.43, y=69.00, z=-1225.56]
+[03May2025 08:46:41.450] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:46:41.450] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: IronGolem['Iron Golem'/67383, l='ServerLevel[world]', x=852.70, y=69.00, z=-1224.70]
+[03May2025 08:46:41.450] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:46:41.450] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/68463, l='ServerLevel[world]', x=849.49, y=69.00, z=-1224.53]
+[03May2025 08:46:41.450] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:46:41.451] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: IronGolem['Iron Golem'/67383, l='ServerLevel[world]', x=852.70, y=69.00, z=-1224.70]
+[03May2025 08:46:41.451] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:46:41.451] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/68463, l='ServerLevel[world]', x=849.49, y=69.00, z=-1224.53]
+[03May2025 08:46:42.483] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:46:42.483] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: IronGolem['Iron Golem'/67383, l='ServerLevel[world]', x=852.70, y=69.00, z=-1224.70]
+[03May2025 08:46:42.483] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:46:42.483] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/68463, l='ServerLevel[world]', x=849.90, y=69.00, z=-1224.03]
+[03May2025 08:46:42.483] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:46:42.483] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: IronGolem['Iron Golem'/67383, l='ServerLevel[world]', x=852.70, y=69.00, z=-1224.70]
+[03May2025 08:46:42.483] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:46:42.483] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/68463, l='ServerLevel[world]', x=849.90, y=69.00, z=-1224.03]
+[03May2025 08:46:43.445] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:46:43.445] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: IronGolem['Iron Golem'/67383, l='ServerLevel[world]', x=852.70, y=69.00, z=-1224.70]
+[03May2025 08:46:43.445] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:46:43.445] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/68463, l='ServerLevel[world]', x=850.40, y=69.00, z=-1223.57]
+[03May2025 08:46:43.445] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:46:43.445] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: IronGolem['Iron Golem'/67383, l='ServerLevel[world]', x=852.70, y=69.00, z=-1224.70]
+[03May2025 08:46:43.445] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:46:43.445] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/68463, l='ServerLevel[world]', x=850.40, y=69.00, z=-1223.57]
+[03May2025 08:46:44.446] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:46:44.446] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: IronGolem['Iron Golem'/67383, l='ServerLevel[world]', x=852.70, y=69.00, z=-1224.70]
+[03May2025 08:46:44.446] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:46:44.446] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/68463, l='ServerLevel[world]', x=848.12, y=70.92, z=-1222.04]
+[03May2025 08:46:44.447] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:46:44.447] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: IronGolem['Iron Golem'/67383, l='ServerLevel[world]', x=852.70, y=69.00, z=-1224.70]
+[03May2025 08:46:44.447] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:46:44.447] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/68463, l='ServerLevel[world]', x=848.12, y=70.92, z=-1222.04]
+[03May2025 08:46:51.450] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:46:51.450] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: IronGolem['Iron Golem'/67383, l='ServerLevel[world]', x=852.70, y=69.00, z=-1224.70]
+[03May2025 08:46:51.450] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:46:51.450] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Pillager['Pillager'/69614, l='ServerLevel[world]', x=848.96, y=69.00, z=-1226.74]
+[03May2025 08:46:51.450] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:46:51.450] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: IronGolem['Iron Golem'/67383, l='ServerLevel[world]', x=852.70, y=69.00, z=-1224.70]
+[03May2025 08:46:51.450] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:46:51.450] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Pillager['Pillager'/69614, l='ServerLevel[world]', x=848.96, y=69.00, z=-1226.74]
+[03May2025 08:46:52.449] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:46:52.449] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: IronGolem['Iron Golem'/67383, l='ServerLevel[world]', x=852.70, y=69.00, z=-1224.70]
+[03May2025 08:46:52.449] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:46:52.449] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Pillager['Pillager'/69614, l='ServerLevel[world]', x=849.21, y=69.00, z=-1226.66]
+[03May2025 08:46:52.449] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:46:52.449] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Pillager['Pillager'/70119, l='ServerLevel[world]', x=850.83, y=69.00, z=-1227.30]
+[03May2025 08:46:52.449] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:46:52.449] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: IronGolem['Iron Golem'/67383, l='ServerLevel[world]', x=852.70, y=69.00, z=-1224.70]
+[03May2025 08:46:52.449] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:46:52.449] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Pillager['Pillager'/69614, l='ServerLevel[world]', x=849.21, y=69.00, z=-1226.66]
+[03May2025 08:46:52.449] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:46:52.449] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Pillager['Pillager'/70119, l='ServerLevel[world]', x=850.83, y=69.00, z=-1227.30]
+[03May2025 08:46:53.455] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:46:53.455] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: IronGolem['Iron Golem'/67383, l='ServerLevel[world]', x=852.70, y=69.00, z=-1224.70]
+[03May2025 08:46:53.455] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:46:53.455] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Pillager['Pillager'/69614, l='ServerLevel[world]', x=849.38, y=69.00, z=-1226.61]
+[03May2025 08:46:53.455] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:46:53.455] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Pillager['Pillager'/70119, l='ServerLevel[world]', x=850.55, y=69.00, z=-1226.97]
+[03May2025 08:46:53.456] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:46:53.456] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: IronGolem['Iron Golem'/67383, l='ServerLevel[world]', x=852.70, y=69.00, z=-1224.70]
+[03May2025 08:46:53.456] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:46:53.456] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Pillager['Pillager'/69614, l='ServerLevel[world]', x=849.38, y=69.00, z=-1226.61]
+[03May2025 08:46:53.456] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:46:53.456] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Pillager['Pillager'/70119, l='ServerLevel[world]', x=850.55, y=69.00, z=-1226.97]
+[03May2025 08:46:54.449] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:46:54.449] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: IronGolem['Iron Golem'/67383, l='ServerLevel[world]', x=852.70, y=69.00, z=-1224.70]
+[03May2025 08:46:54.449] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:46:54.449] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Pillager['Pillager'/69614, l='ServerLevel[world]', x=849.53, y=69.00, z=-1226.54]
+[03May2025 08:46:54.449] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:46:54.450] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Pillager['Pillager'/70119, l='ServerLevel[world]', x=850.55, y=69.00, z=-1226.97]
+[03May2025 08:46:54.450] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:46:54.450] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: IronGolem['Iron Golem'/67383, l='ServerLevel[world]', x=852.70, y=69.00, z=-1224.70]
+[03May2025 08:46:54.450] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:46:54.450] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Pillager['Pillager'/69614, l='ServerLevel[world]', x=849.53, y=69.00, z=-1226.54]
+[03May2025 08:46:54.450] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:46:54.450] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Pillager['Pillager'/70119, l='ServerLevel[world]', x=850.55, y=69.00, z=-1226.97]
+[03May2025 08:46:55.446] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:46:55.446] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: IronGolem['Iron Golem'/67383, l='ServerLevel[world]', x=852.70, y=69.00, z=-1224.70]
+[03May2025 08:46:55.446] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:46:55.446] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Pillager['Pillager'/69614, l='ServerLevel[world]', x=849.67, y=69.00, z=-1226.47]
+[03May2025 08:46:55.446] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:46:55.446] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Pillager['Pillager'/70119, l='ServerLevel[world]', x=850.55, y=69.00, z=-1226.97]
+[03May2025 08:46:55.447] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:46:55.447] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: IronGolem['Iron Golem'/67383, l='ServerLevel[world]', x=852.70, y=69.00, z=-1224.70]
+[03May2025 08:46:55.447] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:46:55.447] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Pillager['Pillager'/69614, l='ServerLevel[world]', x=849.67, y=69.00, z=-1226.47]
+[03May2025 08:46:55.447] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:46:55.447] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Pillager['Pillager'/70119, l='ServerLevel[world]', x=850.55, y=69.00, z=-1226.97]
+[03May2025 08:46:56.444] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:46:56.444] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: IronGolem['Iron Golem'/67383, l='ServerLevel[world]', x=852.70, y=69.00, z=-1224.70]
+[03May2025 08:46:56.444] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:46:56.444] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Pillager['Pillager'/69614, l='ServerLevel[world]', x=849.81, y=69.00, z=-1226.39]
+[03May2025 08:46:56.444] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:46:56.444] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Pillager['Pillager'/70119, l='ServerLevel[world]', x=850.55, y=69.00, z=-1226.97]
+[03May2025 08:46:56.444] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:46:56.445] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: IronGolem['Iron Golem'/67383, l='ServerLevel[world]', x=852.70, y=69.00, z=-1224.70]
+[03May2025 08:46:56.445] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:46:56.445] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Pillager['Pillager'/69614, l='ServerLevel[world]', x=849.81, y=69.00, z=-1226.39]
+[03May2025 08:46:56.445] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:46:56.445] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Pillager['Pillager'/70119, l='ServerLevel[world]', x=850.55, y=69.00, z=-1226.97]
+[03May2025 08:46:57.454] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:46:57.454] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: IronGolem['Iron Golem'/67383, l='ServerLevel[world]', x=852.70, y=69.00, z=-1224.70]
+[03May2025 08:46:57.454] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:46:57.454] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Pillager['Pillager'/69614, l='ServerLevel[world]', x=849.93, y=69.00, z=-1226.31]
+[03May2025 08:46:57.454] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:46:57.454] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Pillager['Pillager'/70119, l='ServerLevel[world]', x=850.55, y=69.00, z=-1226.97]
+[03May2025 08:46:57.454] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:46:57.454] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: IronGolem['Iron Golem'/67383, l='ServerLevel[world]', x=852.70, y=69.00, z=-1224.70]
+[03May2025 08:46:57.454] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:46:57.454] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Pillager['Pillager'/69614, l='ServerLevel[world]', x=849.93, y=69.00, z=-1226.31]
+[03May2025 08:46:57.455] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:46:57.455] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Pillager['Pillager'/70119, l='ServerLevel[world]', x=850.55, y=69.00, z=-1226.97]
+[03May2025 08:46:58.450] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:46:58.451] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: IronGolem['Iron Golem'/67383, l='ServerLevel[world]', x=852.70, y=69.00, z=-1224.71]
+[03May2025 08:46:58.451] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:46:58.451] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Pillager['Pillager'/69614, l='ServerLevel[world]', x=850.01, y=69.00, z=-1226.27]
+[03May2025 08:46:58.451] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:46:58.451] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: IronGolem['Iron Golem'/67383, l='ServerLevel[world]', x=852.70, y=69.00, z=-1224.71]
+[03May2025 08:46:58.451] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:46:58.451] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Pillager['Pillager'/69614, l='ServerLevel[world]', x=850.01, y=69.00, z=-1226.27]
+[03May2025 08:46:59.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IDetesDI: Set the time to 13000]
+[03May2025 08:47:01.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI has made the advancement [I Want To Believe]
+[03May2025 08:47:01.641] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 08:47:04.737] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 08:47:07.447] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:47:07.447] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/68464, l='ServerLevel[world]', x=847.46, y=70.00, z=-1211.18]
+[03May2025 08:47:07.447] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:47:07.447] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: TheMoonflowerEntity['The Moonflower'/68464, l='ServerLevel[world]', x=847.46, y=70.00, z=-1211.18]
+[03May2025 08:47:29.459] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:47:29.459] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Allay['Allay'/68819, l='ServerLevel[world]', x=831.20, y=68.00, z=-1249.80]
+[03May2025 08:47:29.460] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:47:29.460] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Allay['Allay'/68819, l='ServerLevel[world]', x=831.20, y=68.00, z=-1249.80]
+[03May2025 08:47:30.447] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:47:30.447] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Allay['Allay'/68819, l='ServerLevel[world]', x=831.20, y=68.00, z=-1249.80]
+[03May2025 08:47:30.448] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:47:30.448] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Allay['Allay'/68819, l='ServerLevel[world]', x=831.20, y=68.00, z=-1249.80]
+[03May2025 08:47:32.452] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:47:32.452] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Pillager['Pillager'/70792, l='ServerLevel[world]', x=832.70, y=68.00, z=-1247.50]
+[03May2025 08:47:32.453] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:47:32.453] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Pillager['Pillager'/70792, l='ServerLevel[world]', x=832.70, y=68.00, z=-1247.50]
+[03May2025 08:47:33.451] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:47:33.451] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Allay['Allay'/68818, l='ServerLevel[world]', x=830.83, y=68.00, z=-1250.86]
+[03May2025 08:47:33.451] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:47:33.451] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Allay['Allay'/68819, l='ServerLevel[world]', x=831.20, y=68.00, z=-1249.80]
+[03May2025 08:47:33.452] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:47:33.452] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Allay['Allay'/68818, l='ServerLevel[world]', x=830.83, y=68.00, z=-1250.86]
+[03May2025 08:47:33.452] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:47:33.452] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Allay['Allay'/68819, l='ServerLevel[world]', x=831.20, y=68.00, z=-1249.80]
+[03May2025 08:47:34.447] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:47:34.447] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Allay['Allay'/68818, l='ServerLevel[world]', x=830.83, y=68.00, z=-1251.20]
+[03May2025 08:47:34.447] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:47:34.447] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Allay['Allay'/68819, l='ServerLevel[world]', x=831.20, y=68.00, z=-1249.80]
+[03May2025 08:47:34.447] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:47:34.447] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Allay['Allay'/68818, l='ServerLevel[world]', x=830.83, y=68.00, z=-1251.20]
+[03May2025 08:47:34.447] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:47:34.447] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Allay['Allay'/68819, l='ServerLevel[world]', x=831.20, y=68.00, z=-1249.80]
+[03May2025 08:47:35.456] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:47:35.456] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Allay['Allay'/68818, l='ServerLevel[world]', x=830.83, y=68.00, z=-1251.20]
+[03May2025 08:47:35.456] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:47:35.457] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Allay['Allay'/68819, l='ServerLevel[world]', x=831.20, y=68.00, z=-1249.80]
+[03May2025 08:47:35.457] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:47:35.457] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Allay['Allay'/68818, l='ServerLevel[world]', x=830.83, y=68.00, z=-1251.20]
+[03May2025 08:47:35.457] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:47:35.457] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Allay['Allay'/68819, l='ServerLevel[world]', x=831.20, y=68.00, z=-1249.80]
+[03May2025 08:47:36.451] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:47:36.451] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Allay['Allay'/68818, l='ServerLevel[world]', x=830.83, y=68.00, z=-1251.20]
+[03May2025 08:47:36.451] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:47:36.451] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Allay['Allay'/68819, l='ServerLevel[world]', x=831.20, y=68.00, z=-1249.80]
+[03May2025 08:47:36.451] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:47:36.451] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Allay['Allay'/68818, l='ServerLevel[world]', x=830.83, y=68.00, z=-1251.20]
+[03May2025 08:47:36.451] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:47:36.451] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Allay['Allay'/68819, l='ServerLevel[world]', x=831.20, y=68.00, z=-1249.80]
+[03May2025 08:47:36.782] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 08:47:37.454] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:47:37.454] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Allay['Allay'/68818, l='ServerLevel[world]', x=830.83, y=68.00, z=-1251.20]
+[03May2025 08:47:37.454] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:47:37.454] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Allay['Allay'/68819, l='ServerLevel[world]', x=831.20, y=68.00, z=-1249.80]
+[03May2025 08:47:37.455] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:47:37.455] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Allay['Allay'/68818, l='ServerLevel[world]', x=830.83, y=68.00, z=-1251.20]
+[03May2025 08:47:37.455] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:47:37.455] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Allay['Allay'/68819, l='ServerLevel[world]', x=831.20, y=68.00, z=-1249.80]
+[03May2025 08:47:37.487] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 08:47:38.457] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:47:38.457] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Allay['Allay'/68818, l='ServerLevel[world]', x=830.83, y=68.00, z=-1251.20]
+[03May2025 08:47:38.457] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:47:38.457] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Allay['Allay'/68818, l='ServerLevel[world]', x=830.83, y=68.00, z=-1251.20]
+[03May2025 08:47:39.188] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 08:47:39.454] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:47:39.454] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: EntityRoadrunner['Roadrunner'/68823, l='ServerLevel[world]', x=822.64, y=68.00, z=-1248.62]
+[03May2025 08:47:39.455] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:47:39.455] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: EntityRoadrunner['Roadrunner'/68823, l='ServerLevel[world]', x=822.64, y=68.00, z=-1248.62]
+[03May2025 08:47:56.289] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 08:47:58.457] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:47:58.457] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Pillager['Pillager'/70792, l='ServerLevel[world]', x=826.37, y=70.15, z=-1237.67]
+[03May2025 08:47:58.457] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:47:58.457] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Pillager['Pillager'/70792, l='ServerLevel[world]', x=826.37, y=70.15, z=-1237.67]
+[03May2025 08:48:01.447] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:48:01.448] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Pillager['Pillager'/71797, l='ServerLevel[world]', x=826.50, y=69.00, z=-1230.94]
+[03May2025 08:48:01.448] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:48:01.448] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Pillager['Pillager'/71797, l='ServerLevel[world]', x=826.50, y=69.00, z=-1230.94]
+[03May2025 08:48:02.197] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 08:48:02.451] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:48:02.451] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Pillager['Pillager'/71797, l='ServerLevel[world]', x=826.30, y=69.00, z=-1229.42]
+[03May2025 08:48:02.451] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:48:02.451] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Pillager['Pillager'/71797, l='ServerLevel[world]', x=826.30, y=69.00, z=-1229.42]
+[03May2025 08:48:04.597] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 08:48:06.988] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 08:48:16.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was blown up by Death Worm
+[03May2025 08:48:18.550] [Server thread/DEBUG] [twilightforest/]: Player Emilianano (fcd18d43-9ceb-3769-a5df-b51fa37b6d2a) respawned and received items held in storage
+[03May2025 08:49:06.572] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:49:06.572] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: EntityDeathWorm['Death Worm'/73489, l='ServerLevel[world]', x=846.50, y=63.14, z=-1256.17]
+[03May2025 08:49:06.573] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:49:06.573] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: EntityDeathWorm['Death Worm'/73489, l='ServerLevel[world]', x=846.50, y=63.14, z=-1256.17]
+[03May2025 08:49:11.558] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:49:11.558] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ZombieBruiserEntity['Zombie Bruiser'/73544, l='ServerLevel[world]', x=838.47, y=67.00, z=-1264.35]
+[03May2025 08:49:11.558] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:49:11.559] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ZombieBruiserEntity['Zombie Bruiser'/73544, l='ServerLevel[world]', x=838.47, y=67.00, z=-1264.35]
+[03May2025 08:49:12.545] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:49:12.545] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ZombieBruiserEntity['Zombie Bruiser'/73544, l='ServerLevel[world]', x=838.77, y=66.00, z=-1264.53]
+[03May2025 08:49:12.545] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:49:12.545] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ZombieBruiserEntity['Zombie Bruiser'/73544, l='ServerLevel[world]', x=838.77, y=66.00, z=-1264.53]
+[03May2025 08:49:16.552] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:49:16.552] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ZombieBruiserEntity['Zombie Bruiser'/73544, l='ServerLevel[world]', x=840.89, y=65.00, z=-1264.55]
+[03May2025 08:49:16.552] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:49:16.552] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ZombieBruiserEntity['Zombie Bruiser'/73544, l='ServerLevel[world]', x=840.89, y=65.00, z=-1264.55]
+[03May2025 08:49:17.549] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:49:17.549] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ZombieBruiserEntity['Zombie Bruiser'/73544, l='ServerLevel[world]', x=841.40, y=65.00, z=-1264.53]
+[03May2025 08:49:17.549] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:49:17.549] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ZombieBruiserEntity['Zombie Bruiser'/73544, l='ServerLevel[world]', x=841.40, y=65.00, z=-1264.53]
+[03May2025 08:49:18.546] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:49:18.546] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ZombieBruiserEntity['Zombie Bruiser'/73544, l='ServerLevel[world]', x=841.89, y=66.00, z=-1264.50]
+[03May2025 08:49:18.547] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:49:18.547] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ZombieBruiserEntity['Zombie Bruiser'/73544, l='ServerLevel[world]', x=841.89, y=66.00, z=-1264.50]
+[03May2025 08:49:19.545] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:49:19.545] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ZombieBruiserEntity['Zombie Bruiser'/73544, l='ServerLevel[world]', x=842.45, y=66.00, z=-1264.50]
+[03May2025 08:49:19.546] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:49:19.546] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ZombieBruiserEntity['Zombie Bruiser'/73544, l='ServerLevel[world]', x=842.45, y=66.00, z=-1264.50]
+[03May2025 08:49:22.546] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:49:22.546] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: SiameseSkeletonsEntity['Siamese Skeletons'/73463, l='ServerLevel[world]', x=835.29, y=65.00, z=-1270.63]
+[03May2025 08:49:22.546] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:49:22.546] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: SiameseSkeletonsEntity['Siamese Skeletons'/73463, l='ServerLevel[world]', x=835.29, y=65.00, z=-1270.63]
+[03May2025 08:49:23.553] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:49:23.553] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: SiameseSkeletonsEntity['Siamese Skeletons'/73463, l='ServerLevel[world]', x=836.41, y=65.00, z=-1270.48]
+[03May2025 08:49:23.553] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:49:23.553] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: SiameseSkeletonsEntity['Siamese Skeletons'/73463, l='ServerLevel[world]', x=836.41, y=65.00, z=-1270.48]
+[03May2025 08:49:24.550] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:49:24.551] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: SiameseSkeletonsEntity['Siamese Skeletons'/73463, l='ServerLevel[world]', x=836.34, y=65.00, z=-1270.34]
+[03May2025 08:49:24.551] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:49:24.551] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: SiameseSkeletonsEntity['Siamese Skeletons'/73463, l='ServerLevel[world]', x=836.34, y=65.00, z=-1270.34]
+[03May2025 08:49:25.547] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:49:25.547] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: SiameseSkeletonsEntity['Siamese Skeletons'/73463, l='ServerLevel[world]', x=836.43, y=65.00, z=-1269.63]
+[03May2025 08:49:25.547] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:49:25.547] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: SiameseSkeletonsEntity['Siamese Skeletons'/73463, l='ServerLevel[world]', x=836.43, y=65.00, z=-1269.63]
+[03May2025 08:49:26.550] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:49:26.550] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: SiameseSkeletonsEntity['Siamese Skeletons'/73463, l='ServerLevel[world]', x=836.47, y=65.00, z=-1268.79]
+[03May2025 08:49:26.551] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:49:26.551] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: SiameseSkeletonsEntity['Siamese Skeletons'/73463, l='ServerLevel[world]', x=836.47, y=65.00, z=-1268.79]
+[03May2025 08:49:38.553] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:49:38.553] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: SiameseSkeletonsEntity['Siamese Skeletons'/73463, l='ServerLevel[world]', x=821.11, y=68.00, z=-1255.83]
+[03May2025 08:49:38.553] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:49:38.554] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: SiameseSkeletonsEntity['Siamese Skeletons'/73463, l='ServerLevel[world]', x=821.11, y=68.00, z=-1255.83]
+[03May2025 08:49:40.557] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:49:40.558] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: EntityDeathWorm['Death Worm'/73489, l='ServerLevel[world]', x=827.49, y=72.00, z=-1260.70]
+[03May2025 08:49:40.558] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:49:40.558] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: EntityDeathWorm['Death Worm'/73489, l='ServerLevel[world]', x=827.49, y=72.00, z=-1260.70]
+[03May2025 08:49:41.593] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:49:41.593] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: EntityDeathWorm['Death Worm'/73489, l='ServerLevel[world]', x=828.03, y=72.00, z=-1261.74]
+[03May2025 08:49:41.593] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:49:41.593] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: EntityDeathWorm['Death Worm'/73489, l='ServerLevel[world]', x=828.03, y=72.00, z=-1261.74]
+[03May2025 08:49:42.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano has made the advancement [The Desert Swimmers]
+[03May2025 08:49:44.546] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:49:44.546] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Allay['Allay'/73469, l='ServerLevel[world]', x=831.71, y=68.13, z=-1257.52]
+[03May2025 08:49:44.546] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:49:44.546] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Allay['Allay'/73468, l='ServerLevel[world]', x=830.50, y=68.00, z=-1258.20]
+[03May2025 08:49:44.546] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:49:44.546] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: SiameseSkeletonsEntity['Siamese Skeletons'/73463, l='ServerLevel[world]', x=828.50, y=68.00, z=-1259.43]
+[03May2025 08:49:44.546] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:49:44.546] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Creeper['Creeper'/73464, l='ServerLevel[world]', x=825.12, y=69.00, z=-1254.67]
+[03May2025 08:49:44.546] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:49:44.546] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Allay['Allay'/73469, l='ServerLevel[world]', x=831.71, y=68.13, z=-1257.52]
+[03May2025 08:49:44.546] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:49:44.546] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Allay['Allay'/73468, l='ServerLevel[world]', x=830.50, y=68.00, z=-1258.20]
+[03May2025 08:49:44.546] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:49:44.546] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: SiameseSkeletonsEntity['Siamese Skeletons'/73463, l='ServerLevel[world]', x=828.50, y=68.00, z=-1259.43]
+[03May2025 08:49:44.546] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:49:44.546] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Creeper['Creeper'/73464, l='ServerLevel[world]', x=825.12, y=69.00, z=-1254.67]
+[03May2025 08:49:45.551] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:49:45.551] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Allay['Allay'/73466, l='ServerLevel[world]', x=829.64, y=69.20, z=-1250.58]
+[03May2025 08:49:45.551] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:49:45.551] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Allay['Allay'/73466, l='ServerLevel[world]', x=829.64, y=69.20, z=-1250.58]
+[03May2025 08:49:50.555] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:49:50.555] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: EntityRoadrunner['Roadrunner'/73528, l='ServerLevel[world]', x=830.84, y=68.00, z=-1244.85]
+[03May2025 08:49:50.555] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:49:50.555] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: EntityRoadrunner['Roadrunner'/73528, l='ServerLevel[world]', x=830.84, y=68.00, z=-1244.85]
+[03May2025 08:49:58.548] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:49:58.548] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Pillager['Pillager'/74526, l='ServerLevel[world]', x=837.30, y=68.00, z=-1245.30]
+[03May2025 08:49:58.548] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:49:58.549] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: Pillager['Pillager'/74526, l='ServerLevel[world]', x=837.30, y=68.00, z=-1245.30]
+[03May2025 08:50:03.863] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[03May2025 08:50:12.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI has completed the challenge [Divine Favor]
+[03May2025 08:50:38.547] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:50:38.548] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ZombieClownEntity['Zombie Clown'/73545, l='ServerLevel[world]', x=839.45, y=77.00, z=-1241.49]
+[03May2025 08:50:38.548] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:50:38.548] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ZombieClownEntity['Zombie Clown'/73545, l='ServerLevel[world]', x=839.45, y=77.00, z=-1241.49]
+[03May2025 08:50:39.543] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:50:39.544] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ZombieClownEntity['Zombie Clown'/73545, l='ServerLevel[world]', x=838.96, y=77.00, z=-1241.49]
+[03May2025 08:50:39.544] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:50:39.544] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ZombieClownEntity['Zombie Clown'/73545, l='ServerLevel[world]', x=838.96, y=77.00, z=-1241.49]
+[03May2025 08:50:40.554] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:50:40.554] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ZombieClownEntity['Zombie Clown'/73545, l='ServerLevel[world]', x=838.59, y=77.00, z=-1241.49]
+[03May2025 08:50:40.555] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_world - Slow nearby
+[03May2025 08:50:40.555] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Entity: ZombieClownEntity['Zombie Clown'/73545, l='ServerLevel[world]', x=838.59, y=77.00, z=-1241.49]

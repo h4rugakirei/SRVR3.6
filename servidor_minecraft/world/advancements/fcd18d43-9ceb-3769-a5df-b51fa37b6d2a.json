@@ -1711,7 +1711,9 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:bamboo_jungle": "2025-05-03 08:43:09 +0000",
       "minecraft:beach": "2025-05-02 23:42:44 +0000",
+      "minecraft:sparse_jungle": "2025-05-03 08:42:57 +0000",
       "minecraft:river": "2025-05-03 05:45:19 +0000",
       "minecraft:dripstone_caves": "2025-05-03 06:04:43 +0000",
       "minecraft:forest": "2025-05-03 05:47:26 +0000",
@@ -2218,7 +2220,10 @@
       "apple": "2025-05-03 08:18:00 +0000",
       "mutton": "2025-05-03 07:24:37 +0000",
       "bread": "2025-05-03 06:01:15 +0000",
-      "golden_apple": "2025-05-03 06:47:18 +0000"
+      "golden_apple": "2025-05-03 06:47:18 +0000",
+      "glow_berries": "2025-05-03 08:35:36 +0000",
+      "melon_slice": "2025-05-03 08:29:05 +0000",
+      "golden_carrot": "2025-05-03 08:29:14 +0000"
     },
     "done": false
   },
@@ -3157,15 +3162,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-05-03 08:31:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-05-03 08:21:05 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-05-03 08:44:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-05-03 08:21:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-05-03 08:44:32 +0000"
     },
     "done": true
   },
@@ -3271,6 +3294,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-05-03 08:31:33 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/iron": {
     "criteria": {
       "has_iron_ingot": "2025-05-03 08:06:36 +0000"
@@ -3280,6 +3309,12 @@
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-05-03 08:21:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-05-03 08:31:33 +0000"
     },
     "done": true
   },
@@ -3307,6 +3342,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-05-03 08:44:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-05-03 08:44:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2025-05-03 08:06:36 +0000"
@@ -3316,6 +3363,18 @@
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2025-05-03 07:44:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-05-03 08:44:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-05-03 08:44:32 +0000"
     },
     "done": true
   },
@@ -3412,6 +3471,12 @@
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-05-03 08:06:36 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/medium_graveyard": {
+    "criteria": {
+      "medium_graveyard": "2025-05-03 08:31:27 +0000"
     },
     "done": true
   },
@@ -3517,6 +3582,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-05-03 08:44:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2025-05-03 08:06:36 +0000"
@@ -3526,6 +3597,12 @@
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2025-05-03 08:06:36 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-05-03 08:44:32 +0000"
     },
     "done": true
   },
@@ -3574,6 +3651,24 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2025-05-03 08:06:36 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/upper_bone_staff": {
+    "criteria": {
+      "upper_bone_staff": "2025-05-03 08:26:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2025-05-03 08:31:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-05-03 08:44:32 +0000"
     },
     "done": true
   },
@@ -3706,6 +3801,18 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-05-03 08:06:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate_slab": "2025-05-03 08:32:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2025-05-03 08:44:32 +0000"
     },
     "done": true
   },
