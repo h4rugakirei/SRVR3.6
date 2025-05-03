@@ -5182,3 +5182,26 @@ Caused by: java.lang.IllegalStateException: Entity has invalid position
 [03May2025 09:10:06.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI was slain by Fire Dragon
 [03May2025 09:10:18.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IDetesDI: Summoned new Fire Dragon]
 [03May2025 09:10:45.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IDetesDI: Summoned new Atlatitan]
+[03May2025 09:12:50.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI was slain by Atlatitan
+[03May2025 09:13:38.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was slain by Atlatitan
+[03May2025 09:13:52.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI was squashed by a falling anvil
+[03May2025 09:13:52.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI has completed the challenge [+PARRY]
+[03May2025 09:14:56.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IDetesDI: Summoned new Deep One Knight]
+[03May2025 09:16:16.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IDetesDI: Summoned new Deep One Knight]
+[03May2025 09:16:18.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI has made the advancement [The Shadow Over Mine's Craft]
+[03May2025 09:16:57.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IDetesDI: Summoned new Vallumraptor]
+[03May2025 09:18:11.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IDetesDI: Summoned new Vallumraptor]
+[03May2025 09:18:12.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI was slain by Vallumraptor
+[03May2025 09:18:17.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano has made the advancement [Life Finds A Way]
+[03May2025 09:18:50.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI has made the advancement [Captured!]
+[03May2025 09:18:55.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IDetesDI: Summoned new Anaconda]
+[03May2025 09:18:59.385] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/78795, l='ServerLevel[world]', x=166.13, y=69.00, z=-737.41] died, message: 'Farmer was slain by Anaconda'
+[03May2025 09:19:13.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IDetesDI: Summoned new Anaconda]
+[03May2025 09:19:20.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IDetesDI: Summoned new Anaconda]
+[03May2025 09:19:44.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IDetesDI: Summoned new Anaconda]
+[03May2025 09:19:57.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI was slain by Anaconda
+[03May2025 09:20:33.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IDetesDI: Summoned new Submarine]
+[03May2025 09:20:38.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI has reached the goal [Captain Nemo]
+[03May2025 09:20:53.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano has reached the goal [Captain Nemo]
+[03May2025 09:21:08.385] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/78789, l='ServerLevel[world]', x=142.30, y=68.00, z=-788.30] died, message: 'Farmer was slain by Zombie'
+[03May2025 09:21:17.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IDetesDI: Summoned new Hullbreaker]

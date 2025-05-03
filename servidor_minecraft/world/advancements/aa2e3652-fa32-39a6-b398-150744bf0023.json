@@ -3100,6 +3100,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/ride_submarine": {
+    "criteria": {
+      "ride_a_boat_with_a_goat": "2025-05-03 09:20:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_deepslate_wall": {
     "criteria": {
       "has_polished_deepslate": "2025-05-03 07:56:31 +0000"
@@ -3157,6 +3163,12 @@
   "call_of_yucutan:obtain_blessing": {
     "criteria": {
       "obtain_blessing_0": "2025-05-03 08:50:12 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:parry": {
+    "criteria": {
+      "parry_0": "2025-05-03 09:13:52 +0000"
     },
     "done": true
   },
@@ -3295,6 +3307,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs": {
     "criteria": {
       "has_polished_deepslate": "2025-05-03 07:56:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-05-03 09:12:46 +0000"
     },
     "done": true
   },
@@ -3616,9 +3634,21 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/stalked_by_deep_one": {
+    "criteria": {
+      "stalked_by_deep_one": "2025-05-03 09:16:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-05-03 07:56:31 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:spawner/capturing": {
+    "criteria": {
+      "egg": "2025-05-03 09:18:50 +0000"
     },
     "done": true
   },
