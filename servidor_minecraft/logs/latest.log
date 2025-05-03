@@ -5205,3 +5205,85 @@ Caused by: java.lang.IllegalStateException: Entity has invalid position
 [03May2025 09:20:53.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano has reached the goal [Captain Nemo]
 [03May2025 09:21:08.385] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/78789, l='ServerLevel[world]', x=142.30, y=68.00, z=-788.30] died, message: 'Farmer was slain by Zombie'
 [03May2025 09:21:17.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IDetesDI: Summoned new Hullbreaker]
+[03May2025 09:21:33.829] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Scribe'/78796, l='ServerLevel[world]', x=177.64, y=67.00, z=-747.92] died, message: 'Scribe was slain by Anaconda'
+[03May2025 09:21:42.638] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/78794, l='ServerLevel[world]', x=109.30, y=67.00, z=-775.30] died, message: 'Farmer was slain by Zombie'
+[03May2025 09:21:54.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI was slain by Anaconda
+[03May2025 09:22:13.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was slain by Hullbreaker
+[03May2025 09:22:14.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IDetesDI: Summoned new Gammaroach]
+[03May2025 09:22:28.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IDetesDI: Summoned new Candicorn]
+[03May2025 09:22:53.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IDetesDI: Summoned new Dinosaur Spirit]
+[03May2025 09:23:12.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IDetesDI: Summoned new Extinction Spear]
+[03May2025 09:23:41.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IDetesDI: Summoned new Ink Bomb]
+[03May2025 09:24:15.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IDetesDI: Summoned new Gossamer Worm]
+[03May2025 09:24:27.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IDetesDI: Summoned new Guano]
+[03May2025 09:24:44.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IDetesDI: Summoned new Magnetron]
+[03May2025 09:24:47.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI was slain by Magnetron
+[03May2025 09:25:12.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IDetesDI: Summoned new Nuclear Explosion]
+[03May2025 09:25:12.692] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Scribe'/78864, l='ServerLevel[world]', x=156.93, y=70.50, z=-738.70] died, message: 'Scribe didn't duck and cover'
+[03May2025 09:25:12.693] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/78865, l='ServerLevel[world]', x=157.70, y=70.50, z=-738.30] died, message: 'Unemployed became death, the destroyer of worlds'
+[03May2025 09:25:12.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano didn't duck and cover
+[03May2025 09:25:12.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI became death, the destroyer of worlds
+[03May2025 09:26:05.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IDetesDI: Summoned new Nuclear Bomb]
+[03May2025 09:26:20.388] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/84467, l='ServerLevel[world]', x=123.50, y=70.00, z=-783.50] died, message: 'Librarian was atomized'
+[03May2025 09:26:20.390] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/84520, l='ServerLevel[world]', x=134.47, y=69.00, z=-787.38] died, message: 'Farmer didn't duck and cover'
+[03May2025 09:26:20.391] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/80916, l='ServerLevel[world]', x=135.01, y=68.94, z=-771.51] died, message: 'Armorer was reduced to atoms'
+[03May2025 09:26:20.392] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/84468, l='ServerLevel[world]', x=128.62, y=70.00, z=-757.06] died, message: 'Fisherman became death, the destroyer of worlds'
+[03May2025 09:26:20.394] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/78866, l='ServerLevel[world]', x=144.50, y=71.00, z=-749.66] died, message: 'Farmer was reduced to atoms'
+[03May2025 09:26:20.394] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Scribe'/78828, l='ServerLevel[world]', x=147.50, y=70.00, z=-746.50] died, message: 'Scribe didn't duck and cover'
+[03May2025 09:26:20.395] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/78827, l='ServerLevel[world]', x=151.70, y=70.00, z=-747.19] died, message: 'Nitwit was reduced to atoms'
+[03May2025 09:26:20.395] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Scribe'/80911, l='ServerLevel[world]', x=146.61, y=71.00, z=-751.30] died, message: 'Scribe didn't duck and cover'
+[03May2025 09:26:20.396] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Scribe'/78788, l='ServerLevel[world]', x=161.70, y=64.94, z=-794.70] died, message: 'Scribe was reduced to atoms'
+[03May2025 09:26:20.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano became death, the destroyer of worlds
+[03May2025 09:26:20.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI didn't duck and cover
+[03May2025 09:26:20.832] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IDetesDI moved too quickly! 31.540738959959697,32.5843419079895,16.761967784448075
+[03May2025 09:26:22.668] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Emilianano moved too quickly! -12.0,-11.0,8.0
+[03May2025 09:27:23.676] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/84487, l='ServerLevel[world]', x=107.30, y=57.00, z=-802.55] died, message: 'Unemployed was irradiated to death'
+[03May2025 09:27:35.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI fell from a high place
+[03May2025 09:28:26.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IDetesDI: Summoned new Nucleeper]
+[03May2025 09:29:17.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was slain by Ghost
+[03May2025 09:30:01.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano fell from a high place
+[03May2025 09:30:32.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano has made the advancement [Book of Monsters]
+[03May2025 09:31:34.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IDetesDI: Summoned new Brainiac]
+[03May2025 09:31:37.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI was slain by Brainiac
+[03May2025 09:31:52.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano fell from a high place
+[03May2025 09:32:00.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI was slain by Brainiac
+[03May2025 09:32:05.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was slain by Brainiac
+[03May2025 09:32:14.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI has made the advancement [Brains and Brawn]
+[03May2025 09:33:10.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IDetesDI: Summoned new Subterranodon]
+[03May2025 09:33:21.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano fell from a high place
+[03May2025 09:33:31.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI has made the advancement [Life Finds A Way]
+[03May2025 09:33:34.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI has made the advancement [Life turned out to be a comedy]
+[03May2025 09:33:39.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was slain by IDetesDI
+[03May2025 09:33:39.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI was slain by Subterranodon
+[03May2025 09:34:06.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was slain by IDetesDI
+[03May2025 09:36:38.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IDetesDI: Summoned new Subterranodon]
+[03May2025 09:36:54.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI was slain by Emilianano
+[03May2025 09:37:15.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IDetesDI: Summoned new Nuclear Bomb]
+[03May2025 09:37:26.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IDetesDI: Summoned new Nuclear Bomb]
+[03May2025 09:37:30.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI became death, the destroyer of worlds
+[03May2025 09:37:30.473] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IDetesDI moved too quickly! -12.064329769796714,0.5738463890492937,-20.343951704635174
+[03May2025 09:37:30.743] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IDetesDI moved too quickly! -13.875370956159472,0.36123976975653704,-11.719940116003158
+[03May2025 09:37:59.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI fell from a high place
+[03May2025 09:38:07.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI fell from a high place
+[03May2025 09:38:54.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IDetesDI: Summoned new Nuclear Bomb]
+[03May2025 09:39:09.298] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/84523, l='ServerLevel[world]', x=83.19, y=66.00, z=-780.50] died, message: 'Librarian was reduced to atoms'
+[03May2025 09:39:09.298] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Scribe'/84521, l='ServerLevel[world]', x=84.51, y=64.00, z=-768.04] died, message: 'Scribe was atomized'
+[03May2025 09:39:09.299] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/84469, l='ServerLevel[world]', x=123.72, y=65.00, z=-818.37] died, message: 'Unemployed was atomized'
+[03May2025 09:39:30.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IDetesDI: Summoned new Nuclear Bomb]
+[03May2025 09:39:39.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IDetesDI: Summoned new Nuclear Bomb]
+[03May2025 09:39:45.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI became death, the destroyer of worlds
+[03May2025 09:39:45.829] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IDetesDI moved too quickly! -11.203952953653864,0.0,-7.57080809735146
+[03May2025 09:39:46.058] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IDetesDI moved too quickly! -11.203952953653864,0.0,-7.57080809735146
+[03May2025 09:39:46.321] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IDetesDI moved too quickly! -11.203952953653864,0.0,-7.57080809735146
+[03May2025 09:39:46.553] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IDetesDI moved too quickly! -11.203952953653864,0.0,-7.57080809735146
+[03May2025 09:39:52.672] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[03May2025 09:39:56.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano became death, the destroyer of worlds
+[03May2025 09:39:56.811] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Emilianano moved wrongly!
+[03May2025 09:40:10.443] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2772ms or 55 ticks behind
+[03May2025 09:40:13.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI fell from a high place
+[03May2025 09:40:57.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IDetesDI: Summoned new Nuclear Bomb]
+[03May2025 09:40:58.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IDetesDI: Summoned new Nuclear Bomb]
+[03May2025 09:41:00.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made IDetesDI no longer a server operator
+[03May2025 09:41:02.141] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[03May2025 09:41:16.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI was atomized
+[03May2025 09:41:22.685] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5564ms or 111 ticks behind
