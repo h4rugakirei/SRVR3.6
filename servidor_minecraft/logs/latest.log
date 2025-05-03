@@ -4901,3 +4901,92 @@ java.lang.NullPointerException: Element not found: amount
 [03May2025 08:05:22.984] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Scribe'/28024, l='ServerLevel[world]', x=-605.41, y=63.00, z=-406.03] died, message: 'Scribe was slain by Zombie'
 [03May2025 08:06:36.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano has made the advancement [Acquire Hardware]
 [03May2025 08:09:37.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was eviscerated by Archevoker's vexes
+[03May2025 08:10:01.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was caught by Archevoker's fangs
+[03May2025 08:10:55.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano was eviscerated by Archevoker's vexes
+[03May2025 08:13:13.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano has made the advancement [Not Today, Thank You]
+[03May2025 08:14:49.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano has made the advancement [Far From Perfect]
+[03May2025 08:22:10.737] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/47998, l='ServerLevel[world]', x=433.86, y=68.00, z=-946.72] died, message: 'Farmer was slain by Foliaath'
+[03May2025 08:23:36.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI has made the advancement [Who You Gonna Call?]
+[03May2025 08:26:08.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emilianano has made the advancement [Broken Parts III]
+[03May2025 08:27:16.744] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:27:16.745] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:27:16.745] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:27:16.745] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:27:16.745] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:27:16.745] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:27:16.745] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:27:16.745] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:27:16.746] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:27:16.746] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:27:16.746] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:27:16.746] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:27:16.746] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:27:16.746] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:27:16.746] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:27:16.746] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:27:16.748] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:27:16.748] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:27:16.748] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:27:16.748] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:27:16.748] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:27:16.748] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:27:16.748] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:27:16.749] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:27:16.749] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:27:16.749] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:27:16.749] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:27:16.749] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:27:16.749] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:27:16.749] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:27:16.749] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:27:16.749] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:27:16.749] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:27:16.750] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:27:20.012] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:27:20.012] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:27:20.012] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:27:20.013] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:27:20.013] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:27:20.013] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:27:20.013] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:27:20.013] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:27:20.013] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:27:20.013] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:27:20.013] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:27:20.013] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:27:20.014] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:27:20.014] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:27:20.014] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:27:20.014] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:27:20.014] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:27:20.014] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:27:20.014] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:27:20.014] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:27:20.014] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:27:20.014] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:27:20.014] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:27:20.014] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:27:20.015] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:27:20.015] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:27:20.015] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:27:20.112] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:27:20.112] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:27:20.112] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:27:20.113] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:27:20.113] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:27:20.113] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:27:20.113] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:27:20.113] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:27:20.113] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:27:20.113] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:27:20.113] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:27:20.113] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:27:20.113] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:27:20.113] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:27:20.114] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:27:20.114] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:27:20.114] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:27:20.114] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:27:20.114] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:27:20.114] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03May2025 08:30:07.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IDetesDI has made the advancement [Danger: High Voltage]
